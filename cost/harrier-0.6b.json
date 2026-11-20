@@ -1,0 +1,20 @@
+{
+ "model": "harrier-0.6b",
+ "gpu": "NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition",
+ "n_docs": 5000,
+ "batch_size": 32,
+ "max_seq_length": 8192,
+ "dtype": "torch.bfloat16",
+ "n_params": 596049920,
+ "embed_dim": 1024,
+ "seconds": 137.5,
+ "docs_per_s": 36.4,
+ "tokens_per_s": 34321,
+ "mean_tokens": 943.8,
+ "p95_tokens": 8192,
+ "peak_torch_reserved_gib": 17.55,
+ "peak_torch_allocated_gib": 16.24,
+ "peak_nvidia_smi_gib": 18.24,
+ "storage_per_1M_float32_gb": 4.1,
+ "storage_per_1M_int8_gb": 1.02
+}

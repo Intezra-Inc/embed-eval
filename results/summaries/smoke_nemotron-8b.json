@@ -1,0 +1,40 @@
+{
+ "model": "nemotron-8b",
+ "revision": "d1f2f25730bbd775b99b29185134bc86653bf2d1",
+ "minutes": 0.4,
+ "tasks": {
+  "HumanEvalRetrieval": {
+   "ndcg_at_10": 1.0,
+   "recall_at_10": 1.0,
+   "n_subsets": 1,
+   "eval_time_s": 19.288509224003064
+  }
+ },
+ "mteb_code": [
+  "AppsRetrieval",
+  "CodeEditSearchRetrieval",
+  "CodeFeedbackMT",
+  "CodeFeedbackST",
+  "CodeSearchNetCCRetrieval",
+  "CodeSearchNetRetrieval",
+  "CodeTransOceanContest",
+  "CodeTransOceanDL",
+  "CosQA",
+  "COIRCodeSearchNetRetrieval",
+  "StackOverflowQA",
+  "SyntheticText2SQL"
+ ],
+ "rteb_public": [
+  "AppsRetrieval",
+  "DS1000Retrieval",
+  "HumanEvalRetrieval",
+  "MBPPRetrieval",
+  "WikiSQLRetrieval",
+  "FreshStackRetrieval",
+  "SWEbenchCodeRetrieval"
+ ],
+ "rteb_private_skipped": [
+  "Code1Retrieval",
+  "JapaneseCode1Retrieval"
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "model": "harrier-0.6b",
+ "revision": "f9b9dc8d367d443f2479d27aa5d8d2850c0774ee",
+ "batch_size": 32,
+ "minutes": 29.6,
+ "tasks": {
+  "CodeSearchNetCCRetrieval": {
+   "ndcg_at_10": 0.91812,
+   "recall_at_10": 0.96846,
+   "n_subsets": 6,
+   "eval_time_s": 1541.1703693600139
+  },
+  "CodeTransOceanContest": {
+   "ndcg_at_10": 0.88268,
+   "recall_at_10": 0.95928,
+   "n_subsets": 1,
+   "eval_time_s": 10.959774258983089
+  },
+  "CodeTransOceanDL": {
+   "ndcg_at_10": 0.36385,
+   "recall_at_10": 0.81667,
+   "n_subsets": 1,
+   "eval_time_s": 8.957267598991166
+  },
+  "CosQA": {
+   "ndcg_at_10": 0.40377,
+   "recall_at_10": 0.694,
+   "n_subsets": 1,
+   "eval_time_s": 25.68277262999618
+  },
+  "AppsRetrieval": {
+   "ndcg_at_10": 0.58544,
+   "recall_at_10": 0.72776,
+   "n_subsets": 1,
+   "eval_time_s": 61.34401262598112
+  },
+  "SyntheticText2SQL": {
+   "ndcg_at_10": 0.62177,
+   "recall_at_10": 0.99009,
+   "n_subsets": 1,
+   "eval_time_s": 128.57651460000488
+  }
+ },
+ "mteb_code": [
+  "AppsRetrieval",
+  "CodeEditSearchRetrieval",
+  "CodeFeedbackMT",
+  "CodeFeedbackST",
+  "CodeSearchNetCCRetrieval",
+  "CodeSearchNetRetrieval",
+  "CodeTransOceanContest",
+  "CodeTransOceanDL",
+  "CosQA",
+  "COIRCodeSearchNetRetrieval",
+  "StackOverflowQA",
+  "SyntheticText2SQL"
+ ],
+ "rteb_public": [
+  "AppsRetrieval",
+  "DS1000Retrieval",
+  "HumanEvalRetrieval",
+  "MBPPRetrieval",
+  "WikiSQLRetrieval",
+  "FreshStackRetrieval",
+  "SWEbenchCodeRetrieval"
+ ],
+ "rteb_private_skipped": [
+  "Code1Retrieval",
+  "JapaneseCode1Retrieval"
+ ]
+}

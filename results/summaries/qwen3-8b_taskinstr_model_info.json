@@ -1,0 +1,32 @@
+{
+ "model": "qwen3-8b",
+ "registry_name": "Qwen/Qwen3-Embedding-8B",
+ "local_path": "~/embed-eval/models/Qwen3-Embedding-8B",
+ "revision": "1d8ad4ca9b3dd8059ad90a75d4983776a23d44af",
+ "loader": "q3e_instruct_loader",
+ "max_seq_length": 8192,
+ "dtype": "torch.bfloat16",
+ "zembed_compat_shim": false,
+ "st_prompts": {
+  "query": "Instruct: Given a web search query, retrieve relevant passages that answer the query\nQuery:",
+  "document": ""
+ },
+ "modules": [
+  "Transformer",
+  "Pooling",
+  "Normalize"
+ ],
+ "pooling": "Pooling({'embedding_dimension': 4096, 'pooling_mode': 'lasttoken', 'include_prompt': True})",
+ "embed_dim": 4096,
+ "n_params": 7567295488,
+ "instruction_template": null,
+ "loader_kwargs_overridden": {},
+ "task_instructions": {
+  "CodeSearchNetCCRetrieval": "Given a code comment, retrieve the code snippet corresponding to that comment.",
+  "CodeTransOceanContest": "Given a piece for code, retrieval semantically similar code",
+  "CodeTransOceanDL": "Given a piece for code, retrieval semantically similar code",
+  "CosQA": "Given a question about coding, retrieval code or passage that can solve user's question",
+  "AppsRetrieval": "Given a question about code problem, retrieval code that can solve user's problem",
+  "SyntheticText2SQL": "Given a user's question, retrieve SQL queries that are appropriate responses to the question"
+ }
+}

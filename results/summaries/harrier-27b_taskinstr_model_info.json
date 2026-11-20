@@ -1,0 +1,38 @@
+{
+ "model": "harrier-27b",
+ "registry_name": "microsoft/harrier-oss-v1-27b",
+ "local_path": "~/embed-eval/models/harrier-oss-v1-27b",
+ "revision": "0c0fc62f6d8af9e8604cb818c412301b103a0093",
+ "loader": "InstructSentenceTransformerModel",
+ "max_seq_length": 8192,
+ "dtype": "torch.bfloat16",
+ "zembed_compat_shim": false,
+ "st_prompts": {
+  "query": "",
+  "document": "",
+  "web_search_query": "Instruct: Given a web search query, retrieve relevant passages that answer the query\nQuery: ",
+  "sts_query": "Instruct: Retrieve semantically similar text\nQuery: ",
+  "bitext_query": "Instruct: Retrieve parallel sentences\nQuery: "
+ },
+ "modules": [
+  "Transformer",
+  "Pooling",
+  "Normalize"
+ ],
+ "pooling": "Pooling({'embedding_dimension': 5376, 'pooling_mode': 'lasttoken', 'include_prompt': True})",
+ "embed_dim": 5376,
+ "n_params": 27009346304,
+ "instruction_template": "Instruct: {task}\\nQuery: (queries only; mteb Harrier loader)",
+ "loader_kwargs_overridden": {
+  "apply_instruction_to_passages": false,
+  "prompts_dict": "dict[131]"
+ },
+ "task_instructions": {
+  "CodeSearchNetCCRetrieval": "Given a code comment, retrieve the code snippet corresponding to that comment.",
+  "CodeTransOceanContest": "Given a piece for code, retrieval semantically similar code",
+  "CodeTransOceanDL": "Given a piece for code, retrieval semantically similar code",
+  "CosQA": "Given a question about coding, retrieval code or passage that can solve user's question",
+  "AppsRetrieval": "Given a question about code problem, retrieval code that can solve user's problem",
+  "SyntheticText2SQL": "Given a user's question, retrieve SQL queries that are appropriate responses to the question"
+ }
+}

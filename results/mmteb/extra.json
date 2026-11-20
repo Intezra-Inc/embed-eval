@@ -1,0 +1,24 @@
+{
+ "groups": {
+  "all 18": {
+   "Nemotron-8B": 0.76,
+   "Qwen3-8B": 0.707,
+   "Harrier-27B": 0.781
+  },
+  "17 (excl. LEMBPasskey, truncated at 8192)": {
+   "Nemotron-8B": 0.755,
+   "Qwen3-8B": 0.699,
+   "Harrier-27B": 0.777
+  },
+  "14 standard retrieval (excl. Passkey + RAR-b reasoning SpartQA/TempReasonL1/WinoGrande)": {
+   "Nemotron-8B": 0.769,
+   "Qwen3-8B": 0.797,
+   "Harrier-27B": 0.783
+  },
+  "6 multilingual excl. Statcan (recall@10, en/fr dialogue)": {
+   "Nemotron-8B": 0.834,
+   "Qwen3-8B": 0.83,
+   "Harrier-27B": 0.837
+  }
+ }
+}

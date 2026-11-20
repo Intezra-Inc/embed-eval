@@ -1,0 +1,10 @@
+[2026-10-13T06:47:35Z] START taskinstr harrier-27b gpu3
+[2026-10-13T06:47:42Z] END taskinstr harrier-27b exit=1
+[2026-10-13T06:50:35Z] START taskinstr qwen3-8b gpu3
+[2026-10-13T08:43:42Z] START taskinstr harrier-0.6b gpu1
+[2026-10-13T08:46:34Z] END taskinstr qwen3-8b exit=0
+[2026-10-13T08:46:42Z] START taskinstr qwen3-0.6b gpu3
+[2026-10-13T09:13:26Z] END taskinstr harrier-0.6b exit=0
+[2026-10-13T09:19:53Z] END taskinstr qwen3-0.6b exit=0
+[2026-10-13T09:19:53Z] TASKINSTR DONE
+[2026-10-13T14:41:50Z] END taskinstr harrier-27b (attempt 2) exit=0

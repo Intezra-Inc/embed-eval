@@ -1,0 +1,106 @@
+{
+ "Harrier-27B": {
+  "CodeSearchNetCCRetrieval": {
+   "generic": 0.7904483333333334,
+   "task_instr": 0.91563
+  },
+  "CodeTransOceanContest": {
+   "generic": 0.93455,
+   "task_instr": 0.94119
+  },
+  "CodeTransOceanDL": {
+   "generic": 0.34678,
+   "task_instr": 0.35369
+  },
+  "CosQA": {
+   "generic": 0.34649,
+   "task_instr": 0.36057
+  },
+  "AppsRetrieval": {
+   "generic": 0.72284,
+   "task_instr": 0.79108
+  },
+  "SyntheticText2SQL": {
+   "generic": 0.76072,
+   "task_instr": 0.76568
+  }
+ },
+ "Qwen3-8B": {
+  "CodeSearchNetCCRetrieval": {
+   "generic": 0.59362,
+   "task_instr": 0.9614083333333333
+  },
+  "CodeTransOceanContest": {
+   "generic": 0.93922,
+   "task_instr": 0.92871
+  },
+  "CodeTransOceanDL": {
+   "generic": 0.33814,
+   "task_instr": 0.33481
+  },
+  "CosQA": {
+   "generic": 0.41147,
+   "task_instr": 0.41101
+  },
+  "AppsRetrieval": {
+   "generic": 0.90846,
+   "task_instr": 0.90871
+  },
+  "SyntheticText2SQL": {
+   "generic": 0.62349,
+   "task_instr": 0.64262
+  }
+ },
+ "Harrier-0.6B": {
+  "CodeSearchNetCCRetrieval": {
+   "generic": 0.7385883333333334,
+   "task_instr": 0.91812
+  },
+  "CodeTransOceanContest": {
+   "generic": 0.89176,
+   "task_instr": 0.88268
+  },
+  "CodeTransOceanDL": {
+   "generic": 0.37458,
+   "task_instr": 0.36385
+  },
+  "CosQA": {
+   "generic": 0.39397,
+   "task_instr": 0.40377
+  },
+  "AppsRetrieval": {
+   "generic": 0.58248,
+   "task_instr": 0.58544
+  },
+  "SyntheticText2SQL": {
+   "generic": 0.66211,
+   "task_instr": 0.62177
+  }
+ },
+ "Qwen3-0.6B": {
+  "CodeSearchNetCCRetrieval": {
+   "generic": 0.85094,
+   "task_instr": 0.9140483333333335
+  },
+  "CodeTransOceanContest": {
+   "generic": 0.86453,
+   "task_instr": 0.86421
+  },
+  "CodeTransOceanDL": {
+   "generic": 0.32931,
+   "task_instr": 0.31968
+  },
+  "CosQA": {
+   "generic": 0.40746,
+   "task_instr": 0.39817
+  },
+  "AppsRetrieval": {
+   "generic": 0.75986,
+   "task_instr": 0.75057
+  },
+  "SyntheticText2SQL": {
+   "generic": 0.59891,
+   "task_instr": 0.61634
+  }
+ }
+}

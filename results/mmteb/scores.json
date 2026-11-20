@@ -1,0 +1,323 @@
+{
+ "scores": {
+  "Nemotron-8B": {
+   "StackOverflowQA": 0.97682,
+   "TwitterHjerneRetrieval": 0.82828,
+   "AILAStatutes": 0.58289,
+   "ArguAna": 0.63163,
+   "HagridRetrieval": 0.9887,
+   "LegalBenchCorporateLobbying": 0.96017,
+   "LEMBPasskeyRetrieval": 0.85,
+   "SCIDOCS": 0.25511,
+   "SpartQA": 0.65713,
+   "TempReasonL1": 0.52565,
+   "TRECCOVID": 0.86607,
+   "WinoGrande": 0.89262,
+   "BelebeleRetrieval": 0.8235757712765958,
+   "MLQARetrieval": 0.8472502040816328,
+   "StatcanDialogueDatasetRetrieval": 0.4986275,
+   "WikipediaRetrievalMultilingual": 0.9369749999999999,
+   "CovidRetrieval": 0.83455,
+   "MIRACLRetrievalHardNegatives": 0.73096
+  },
+  "Qwen3-8B": {
+   "StackOverflowQA": 0.9469,
+   "TwitterHjerneRetrieval": 0.78933,
+   "AILAStatutes": 0.81972,
+   "ArguAna": 0.76544,
+   "HagridRetrieval": 0.98847,
+   "LegalBenchCorporateLobbying": 0.95242,
+   "LEMBPasskeyRetrieval": 0.8425,
+   "SCIDOCS": 0.32735,
+   "SpartQA": 0.15631,
+   "TempReasonL1": 0.01339,
+   "TRECCOVID": 0.94696,
+   "WinoGrande": 0.55039,
+   "BelebeleRetrieval": 0.8887161436170213,
+   "MLQARetrieval": 0.8156178571428571,
+   "StatcanDialogueDatasetRetrieval": 0.4345325,
+   "WikipediaRetrievalMultilingual": 0.9146675,
+   "CovidRetrieval": 0.87546,
+   "MIRACLRetrievalHardNegatives": 0.69663
+  },
+  "Harrier-27B": {
+   "StackOverflowQA": 0.9691,
+   "TwitterHjerneRetrieval": 0.90947,
+   "AILAStatutes": 0.55021,
+   "ArguAna": 0.68196,
+   "HagridRetrieval": 0.98896,
+   "LegalBenchCorporateLobbying": 0.95742,
+   "LEMBPasskeyRetrieval": 0.8375,
+   "SCIDOCS": 0.29099,
+   "SpartQA": 0.87954,
+   "TempReasonL1": 0.43588,
+   "TRECCOVID": 0.89131,
+   "WinoGrande": 0.93056,
+   "BelebeleRetrieval": 0.8655234840425532,
+   "MLQARetrieval": 0.7964605102040819,
+   "StatcanDialogueDatasetRetrieval": 0.6149225,
+   "WikipediaRetrievalMultilingual": 0.923893125,
+   "CovidRetrieval": 0.83203,
+   "MIRACLRetrievalHardNegatives": 0.6936461111111112
+  }
+ },
+ "miracl_per_language": {
+  "Nemotron-8B": {
+   "ar": 0.81368,
+   "bn": 0.84036,
+   "de": 0.62759,
+   "en": 0.61576,
+   "es": 0.59933,
+   "fa": 0.64951,
+   "fi": 0.81389,
+   "fr": 0.59776,
+   "hi": 0.6879,
+   "id": 0.5851,
+   "ja": 0.78243,
+   "ko": 0.73671,
+   "ru": 0.76433,
+   "sw": 0.80156,
+   "te": 0.88424,
+   "th": 0.84697,
+   "yo": 0.8138,
+   "zh": 0.69636
+  },
+  "Qwen3-8B": {
+   "ar": 0.79125,
+   "bn": 0.77934,
+   "de": 0.60927,
+   "en": 0.59321,
+   "es": 0.59376,
+   "fa": 0.60992,
+   "fi": 0.78499,
+   "fr": 0.59714,
+   "hi": 0.63906,
+   "id": 0.55768,
+   "ja": 0.74497,
+   "ko": 0.67877,
+   "ru": 0.73466,
+   "sw": 0.70147,
+   "te": 0.84121,
+   "th": 0.81196,
+   "yo": 0.82527,
+   "zh": 0.64541
+  },
+  "Harrier-27B": {
+   "ar": 0.79629,
+   "bn": 0.78188,
+   "de": 0.59195,
+   "fa": 0.60185,
+   "ko": 0.67122,
+   "yo": 0.88194,
+   "zh": 0.60504,
+   "en": 0.57772,
+   "es": 0.56709,
+   "fi": 0.78594,
+   "fr": 0.5857,
+   "hi": 0.65232,
+   "id": 0.55217,
+   "ja": 0.72483,
+   "ru": 0.7089,
+   "sw": 0.7616,
+   "te": 0.82815,
+   "th": 0.81104
+  }
+ },
+ "missing": {},
+ "provenance": {
+  "Nemotron-8B/StackOverflowQA": [
+   "results/mteb_cache/results/nvidia__Nemotron-3-Embed-8B-BF16/d1f2f25730bbd775b99b29185134bc86653bf2d1/StackOverflowQA.json"
+  ],
+  "Nemotron-8B/TwitterHjerneRetrieval": [
+   "results/mteb_cache/results/nvidia__Nemotron-3-Embed-8B-BF16/d1f2f25730bbd775b99b29185134bc86653bf2d1/TwitterHjerneRetrieval.json"
+  ],
+  "Nemotron-8B/AILAStatutes": [
+   "results/mteb_cache/results/nvidia__Nemotron-3-Embed-8B-BF16/d1f2f25730bbd775b99b29185134bc86653bf2d1/AILAStatutes.json"
+  ],
+  "Nemotron-8B/ArguAna": [
+   "results/mteb_cache/results/nvidia__Nemotron-3-Embed-8B-BF16/d1f2f25730bbd775b99b29185134bc86653bf2d1/ArguAna.json"
+  ],
+  "Nemotron-8B/HagridRetrieval": [
+   "results/mteb_cache/results/nvidia__Nemotron-3-Embed-8B-BF16/d1f2f25730bbd775b99b29185134bc86653bf2d1/HagridRetrieval.json"
+  ],
+  "Nemotron-8B/LegalBenchCorporateLobbying": [
+   "results/mteb_cache/results/nvidia__Nemotron-3-Embed-8B-BF16/d1f2f25730bbd775b99b29185134bc86653bf2d1/LegalBenchCorporateLobbying.json"
+  ],
+  "Nemotron-8B/LEMBPasskeyRetrieval": [
+   "results/mteb_cache/results/nvidia__Nemotron-3-Embed-8B-BF16/d1f2f25730bbd775b99b29185134bc86653bf2d1/LEMBPasskeyRetrieval.json"
+  ],
+  "Nemotron-8B/SCIDOCS": [
+   "results/mteb_cache/results/nvidia__Nemotron-3-Embed-8B-BF16/d1f2f25730bbd775b99b29185134bc86653bf2d1/SCIDOCS.json"
+  ],
+  "Nemotron-8B/SpartQA": [
+   "results/mteb_cache/results/nvidia__Nemotron-3-Embed-8B-BF16/d1f2f25730bbd775b99b29185134bc86653bf2d1/SpartQA.json"
+  ],
+  "Nemotron-8B/TempReasonL1": [
+   "results/mteb_cache/results/nvidia__Nemotron-3-Embed-8B-BF16/d1f2f25730bbd775b99b29185134bc86653bf2d1/TempReasonL1.json"
+  ],
+  "Nemotron-8B/TRECCOVID": [
+   "results/mteb_cache/results/nvidia__Nemotron-3-Embed-8B-BF16/d1f2f25730bbd775b99b29185134bc86653bf2d1/TRECCOVID.json"
+  ],
+  "Nemotron-8B/WinoGrande": [
+   "results/mteb_cache/results/nvidia__Nemotron-3-Embed-8B-BF16/d1f2f25730bbd775b99b29185134bc86653bf2d1/WinoGrande.json"
+  ],
+  "Nemotron-8B/BelebeleRetrieval": [
+   "results/mteb_cache/results/nvidia__Nemotron-3-Embed-8B-BF16/d1f2f25730bbd775b99b29185134bc86653bf2d1/BelebeleRetrieval.json"
+  ],
+  "Nemotron-8B/MLQARetrieval": [
+   "results/mteb_cache/results/nvidia__Nemotron-3-Embed-8B-BF16/d1f2f25730bbd775b99b29185134bc86653bf2d1/MLQARetrieval.json"
+  ],
+  "Nemotron-8B/StatcanDialogueDatasetRetrieval": [
+   "results/mteb_cache/results/nvidia__Nemotron-3-Embed-8B-BF16/d1f2f25730bbd775b99b29185134bc86653bf2d1/StatcanDialogueDatasetRetrieval.json"
+  ],
+  "Nemotron-8B/WikipediaRetrievalMultilingual": [
+   "results/mteb_cache/results/nvidia__Nemotron-3-Embed-8B-BF16/d1f2f25730bbd775b99b29185134bc86653bf2d1/WikipediaRetrievalMultilingual.json"
+  ],
+  "Nemotron-8B/CovidRetrieval": [
+   "results/mteb_cache/results/nvidia__Nemotron-3-Embed-8B-BF16/d1f2f25730bbd775b99b29185134bc86653bf2d1/CovidRetrieval.json"
+  ],
+  "Nemotron-8B/MIRACLRetrievalHardNegatives": [
+   "results/mteb_cache/results/nvidia__Nemotron-3-Embed-8B-BF16/d1f2f25730bbd775b99b29185134bc86653bf2d1/MIRACLRetrievalHardNegatives.json"
+  ],
+  "Qwen3-8B/StackOverflowQA": [
+   "results/mteb_cache/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/StackOverflowQA.json"
+  ],
+  "Qwen3-8B/TwitterHjerneRetrieval": [
+   "results/h100_mteb_cache/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/TwitterHjerneRetrieval.json"
+  ],
+  "Qwen3-8B/AILAStatutes": [
+   "results/h100_mteb_cache/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/AILAStatutes.json"
+  ],
+  "Qwen3-8B/ArguAna": [
+   "results/h100_mteb_cache/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/ArguAna.json"
+  ],
+  "Qwen3-8B/HagridRetrieval": [
+   "results/h100_mteb_cache/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/HagridRetrieval.json"
+  ],
+  "Qwen3-8B/LegalBenchCorporateLobbying": [
+   "results/h100_mteb_cache/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/LegalBenchCorporateLobbying.json"
+  ],
+  "Qwen3-8B/LEMBPasskeyRetrieval": [
+   "results/h100_mteb_cache/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/LEMBPasskeyRetrieval.json"
+  ],
+  "Qwen3-8B/SCIDOCS": [
+   "results/h100_mteb_cache/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/SCIDOCS.json"
+  ],
+  "Qwen3-8B/SpartQA": [
+   "results/h100_mteb_cache/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/SpartQA.json"
+  ],
+  "Qwen3-8B/TempReasonL1": [
+   "results/h100_mteb_cache/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/TempReasonL1.json"
+  ],
+  "Qwen3-8B/TRECCOVID": [
+   "results/h100_mteb_cache/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/TRECCOVID.json"
+  ],
+  "Qwen3-8B/WinoGrande": [
+   "results/h100_mteb_cache/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/WinoGrande.json"
+  ],
+  "Qwen3-8B/BelebeleRetrieval": [
+   "results/h100_mteb_cache/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/BelebeleRetrieval.json"
+  ],
+  "Qwen3-8B/MLQARetrieval": [
+   "results/h100_mteb_cache/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/MLQARetrieval.json"
+  ],
+  "Qwen3-8B/StatcanDialogueDatasetRetrieval": [
+   "results/h100_mteb_cache/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/StatcanDialogueDatasetRetrieval.json"
+  ],
+  "Qwen3-8B/WikipediaRetrievalMultilingual": [
+   "results/h100_mteb_cache/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/WikipediaRetrievalMultilingual.json"
+  ],
+  "Qwen3-8B/CovidRetrieval": [
+   "results/h100_mteb_cache/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/CovidRetrieval.json"
+  ],
+  "Qwen3-8B/MIRACLRetrievalHardNegatives": [
+   "results/mteb_cache/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/MIRACLRetrievalHardNegatives.json",
+   "results/h100_mteb_cache_split/de/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/MIRACLRetrievalHardNegatives.json",
+   "results/h100_mteb_cache_split/en/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/MIRACLRetrievalHardNegatives.json",
+   "results/h100_mteb_cache_split/es/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/MIRACLRetrievalHardNegatives.json",
+   "results/h100_mteb_cache_split/fa/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/MIRACLRetrievalHardNegatives.json",
+   "results/h100_mteb_cache_split/fi/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/MIRACLRetrievalHardNegatives.json",
+   "results/h100_mteb_cache_split/fr/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/MIRACLRetrievalHardNegatives.json",
+   "results/h100_mteb_cache_split/hi/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/MIRACLRetrievalHardNegatives.json",
+   "results/h100_mteb_cache_split/id/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/MIRACLRetrievalHardNegatives.json",
+   "results/h100_mteb_cache_split/ja/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/MIRACLRetrievalHardNegatives.json",
+   "results/h100_mteb_cache_split/ko/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/MIRACLRetrievalHardNegatives.json",
+   "results/h100_mteb_cache_split/ru/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/MIRACLRetrievalHardNegatives.json",
+   "results/h100_mteb_cache_split/sw/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/MIRACLRetrievalHardNegatives.json",
+   "results/h100_mteb_cache_split/te/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/MIRACLRetrievalHardNegatives.json",
+   "results/h100_mteb_cache_split/th/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/MIRACLRetrievalHardNegatives.json",
+   "results/h100_mteb_cache_split/yo/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/MIRACLRetrievalHardNegatives.json",
+   "results/h100_mteb_cache_split/zh/results/Qwen__Qwen3-Embedding-8B/1d8ad4ca9b3dd8059ad90a75d4983776a23d44af/MIRACLRetrievalHardNegatives.json"
+  ],
+  "Harrier-27B/StackOverflowQA": [
+   "results/mteb_cache/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/StackOverflowQA.json"
+  ],
+  "Harrier-27B/TwitterHjerneRetrieval": [
+   "results/mteb_cache/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/TwitterHjerneRetrieval.json"
+  ],
+  "Harrier-27B/AILAStatutes": [
+   "results/h100_mteb_cache/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/AILAStatutes.json"
+  ],
+  "Harrier-27B/ArguAna": [
+   "results/h100_mteb_cache/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/ArguAna.json"
+  ],
+  "Harrier-27B/HagridRetrieval": [
+   "results/mteb_cache/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/HagridRetrieval.json"
+  ],
+  "Harrier-27B/LegalBenchCorporateLobbying": [
+   "results/mteb_cache/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/LegalBenchCorporateLobbying.json"
+  ],
+  "Harrier-27B/LEMBPasskeyRetrieval": [
+   "results/mteb_cache/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/LEMBPasskeyRetrieval.json"
+  ],
+  "Harrier-27B/SCIDOCS": [
+   "results/mteb_cache/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/SCIDOCS.json"
+  ],
+  "Harrier-27B/SpartQA": [
+   "results/h100_mteb_cache/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/SpartQA.json"
+  ],
+  "Harrier-27B/TempReasonL1": [
+   "results/mteb_cache/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/TempReasonL1.json"
+  ],
+  "Harrier-27B/TRECCOVID": [
+   "results/h100_mteb_cache/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/TRECCOVID.json"
+  ],
+  "Harrier-27B/WinoGrande": [
+   "results/h100_mteb_cache/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/WinoGrande.json"
+  ],
+  "Harrier-27B/BelebeleRetrieval": [
+   "results/mteb_cache/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/BelebeleRetrieval.json"
+  ],
+  "Harrier-27B/MLQARetrieval": [
+   "results/mteb_cache/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/MLQARetrieval.json"
+  ],
+  "Harrier-27B/StatcanDialogueDatasetRetrieval": [
+   "results/mteb_cache/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/StatcanDialogueDatasetRetrieval.json"
+  ],
+  "Harrier-27B/WikipediaRetrievalMultilingual": [
+   "results/mteb_cache/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/WikipediaRetrievalMultilingual.json"
+  ],
+  "Harrier-27B/CovidRetrieval": [
+   "results/mteb_cache/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/CovidRetrieval.json"
+  ],
+  "Harrier-27B/MIRACLRetrievalHardNegatives": [
+   "results/mteb_cache/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/MIRACLRetrievalHardNegatives.json",
+   "results/mteb_cache_split/de/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/MIRACLRetrievalHardNegatives.json",
+   "results/mteb_cache_split/fa/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/MIRACLRetrievalHardNegatives.json",
+   "results/mteb_cache_split/ko/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/MIRACLRetrievalHardNegatives.json",
+   "results/mteb_cache_split/yo/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/MIRACLRetrievalHardNegatives.json",
+   "results/mteb_cache_split/zh/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/MIRACLRetrievalHardNegatives.json",
+   "results/h100_mteb_cache_split/en/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/MIRACLRetrievalHardNegatives.json",
+   "results/h100_mteb_cache_split/es/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/MIRACLRetrievalHardNegatives.json",
+   "results/h100_mteb_cache_split/fi/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/MIRACLRetrievalHardNegatives.json",
+   "results/h100_mteb_cache_split/fr/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/MIRACLRetrievalHardNegatives.json",
+   "results/h100_mteb_cache_split/hi/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/MIRACLRetrievalHardNegatives.json",
+   "results/h100_mteb_cache_split/id/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/MIRACLRetrievalHardNegatives.json",
+   "results/h100_mteb_cache_split/ja/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/MIRACLRetrievalHardNegatives.json",
+   "results/h100_mteb_cache_split/ru/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/MIRACLRetrievalHardNegatives.json",
+   "results/h100_mteb_cache_split/sw/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/MIRACLRetrievalHardNegatives.json",
+   "results/h100_mteb_cache_split/te/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/MIRACLRetrievalHardNegatives.json",
+   "results/h100_mteb_cache_split/th/results/microsoft__harrier-oss-v1-27b/0c0fc62f6d8af9e8604cb818c412301b103a0093/MIRACLRetrievalHardNegatives.json"
+  ]
+ }
+}

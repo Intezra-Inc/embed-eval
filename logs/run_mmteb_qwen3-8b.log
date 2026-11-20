@@ -1,0 +1,214 @@
+The task 'AVMemeExamAT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'AVMemeExamAT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'ActivityNetCaptionsT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'ActivityNetCaptionsT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'AudioCapsAVVA2TRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'AudioCapsAVVA2TRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'AudioCapsAVVT2ARetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'AudioCapsAVVT2ARetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'MSVDT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'MSVDT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'VALOR32KT2VARetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'VALOR32KT2VARetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'VATEXV2ARetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'VATEXV2ARetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'VATEXVA2TRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'VATEXVA2TRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'VGGSoundAVA2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'VGGSoundAVA2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'YouCook2T2VARetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'YouCook2T2VARetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'EgoSchemaVideoCentricQA' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'EgoSchemaVideoCentricQA' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'AVEDatasetClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'AVEDatasetClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'AVMemeAudioVideoClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'AVMemeAudioVideoClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'BreakfastClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'BreakfastClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'Kinetics700VA' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'Kinetics700VA' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'RAVDESSAVClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'RAVDESSAVClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'UCF101VideoAudioClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'UCF101VideoAudioClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'MELDEmotionAudioVideoClustering' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'MELDEmotionAudioVideoClustering' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'MusicAVQACLSAudioVideoClustering' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'MusicAVQACLSAudioVideoClustering' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'HumanAnimalCartoonVAPairClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'HumanAnimalCartoonVAPairClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'MusicAVQAVAPairClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'MusicAVQAVAPairClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'HMDB51ZeroShot' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'HMDB51ZeroShot' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'WorldSenseAudioVideoZeroShot' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'WorldSenseAudioVideoZeroShot' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'AVMemeExamT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'AVMemeExamT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'ActivityNetCaptionsT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+The task 'AudioCapsAVT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'AudioCapsAVT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'DiDeMoV2TRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'DiDeMoV2TRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'MSVDV2TRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'MSVDV2TRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'Panda70MT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'Panda70MT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'VALOR32KT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'VALOR32KT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'VATEXT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'VATEXT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'OmniVideoBenchVideoCentricQA' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'OmniVideoBenchVideoCentricQA' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'AVMemeVideoClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'AVMemeVideoClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'BreakfastClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+The task 'Kinetics700V' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'Kinetics700V' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'VGGSoundV' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'VGGSoundV' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'RAVDESSVideoClustering' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'RAVDESSVideoClustering' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'HumanAnimalCartoonVPairClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'HumanAnimalCartoonVPairClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'Kinetics400ZeroShot' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'Kinetics400ZeroShot' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'MELDVideoZeroShot' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'MELDVideoZeroShot' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'UCF101VideoZeroShotClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'UCF101VideoZeroShotClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'WorldSenseVideoZeroShot' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'WorldSenseVideoZeroShot' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'AVMemeVideoClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+The task 'BreakfastClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+The task 'HMDB51Classification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'HMDB51Classification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'Kinetics600V' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'Kinetics600V' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'MELDVideoClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'MELDVideoClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'WorldSenseVideoClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'WorldSenseVideoClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'HumanAnimalCartoonVPairClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+The task 'MusicAVQAVPairClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'MusicAVQAVPairClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'RAVDESSAVVPairClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'RAVDESSAVVPairClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The `tokenizer_kwargs` argument was renamed and is now deprecated. Please use `processor_kwargs` instead.
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 5567.25it/s]
+{
+ "model": "qwen3-8b",
+ "registry_name": "Qwen/Qwen3-Embedding-8B",
+ "local_path": "~/embed-eval/models/Qwen3-Embedding-8B",
+ "revision": "1d8ad4ca9b3dd8059ad90a75d4983776a23d44af",
+ "loader": "q3e_instruct_loader",
+ "max_seq_length": 8192,
+ "dtype": "torch.bfloat16",
+ "zembed_compat_shim": false,
+ "st_prompts": {
+  "query": "Instruct: Given a web search query, retrieve relevant passages that answer the query\nQuery:",
+  "document": ""
+ },
+ "modules": [
+  "Transformer",
+  "Pooling",
+  "Normalize"
+ ],
+ "pooling": "Pooling({'embedding_dimension': 4096, 'pooling_mode': 'lasttoken', 'include_prompt': True})",
+ "embed_dim": 4096,
+ "n_params": 7567295488,
+ "instruction_template": null,
+ "loader_kwargs_overridden": {}
+}
+Evaluating tasks:   0%|          | 0/18 [00:00<?, ?it/s]Evaluating task MIRACLRetrievalHardNegatives:   0%|          | 0/18 [00:00<?, ?it/s]Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+
+Generating dev split:   0%|          | 0/10081 [00:00<?, ? examples/s][AGenerating dev split: 100%|██████████| 10081/10081 [00:00<00:00, 451088.48 examples/s]
+
+Casting the dataset:   0%|          | 0/10081 [00:00<?, ? examples/s][ACasting the dataset: 100%|██████████| 10081/10081 [00:00<00:00, 1051104.45 examples/s]
+
+Generating dev split:   0%|          | 0/192103 [00:00<?, ? examples/s][A
+Generating dev split:   5%|▌         | 10000/192103 [00:00<00:01, 95523.95 examples/s][A
+Generating dev split:  16%|█▌        | 31000/192103 [00:00<00:01, 155689.17 examples/s][A
+Generating dev split:  27%|██▋       | 52000/192103 [00:00<00:00, 176919.37 examples/s][A
+Generating dev split:  39%|███▊      | 74000/192103 [00:00<00:00, 187131.02 examples/s][A
+Generating dev split:  51%|█████     | 98000/192103 [00:00<00:00, 183619.66 examples/s][A
+Generating dev split:  64%|██████▎   | 122000/192103 [00:00<00:00, 196023.51 examples/s][A
+Generating dev split:  78%|███████▊  | 149000/192103 [00:00<00:00, 184573.60 examples/s][A
+Generating dev split:  92%|█████████▏| 176000/192103 [00:00<00:00, 177214.82 examples/s][AGenerating dev split: 100%|██████████| 192103/192103 [00:01<00:00, 176797.39 examples/s]
+
+Generating dev split:   0%|          | 0/1000 [00:00<?, ? examples/s][AGenerating dev split: 100%|██████████| 1000/1000 [00:00<00:00, 170694.45 examples/s]
+
+Generating dev split:   0%|          | 0/6443 [00:00<?, ? examples/s][AGenerating dev split: 100%|██████████| 6443/6443 [00:00<00:00, 702247.82 examples/s]
+
+Casting the dataset:   0%|          | 0/6443 [00:00<?, ? examples/s][ACasting the dataset: 100%|██████████| 6443/6443 [00:00<00:00, 969119.62 examples/s]
+
+Generating dev split:   0%|          | 0/9436 [00:00<?, ? examples/s][AGenerating dev split: 100%|██████████| 9436/9436 [00:00<00:00, 665939.54 examples/s]
+
+Casting the dataset:   0%|          | 0/9436 [00:00<?, ? examples/s][ACasting the dataset: 100%|██████████| 9436/9436 [00:00<00:00, 1121937.08 examples/s]
+
+Generating dev split:   0%|          | 0/393 [00:00<?, ? examples/s][AGenerating dev split: 100%|██████████| 393/393 [00:00<00:00, 76080.56 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/50000 [00:00<?, ? examples/s][A
+Standardizing text corpus format:   5%|▌         | 2735/50000 [00:00<00:01, 27161.90 examples/s][A
+Standardizing text corpus format:  11%|█         | 5574/50000 [00:00<00:01, 27878.26 examples/s][A
+Standardizing text corpus format:  17%|█▋        | 8526/50000 [00:00<00:01, 28387.61 examples/s][A
+Standardizing text corpus format:  23%|██▎       | 11374/50000 [00:00<00:01, 23756.08 examples/s][A
+Standardizing text corpus format:  28%|██▊       | 14186/50000 [00:00<00:01, 25146.07 examples/s][A
+Standardizing text corpus format:  34%|███▍      | 17000/50000 [00:00<00:01, 26012.70 examples/s][A
+Standardizing text corpus format:  40%|████      | 20000/50000 [00:00<00:01, 26921.96 examples/s][A
+Standardizing text corpus format:  46%|████▌     | 23000/50000 [00:00<00:00, 27472.30 examples/s][A
+Standardizing text corpus format:  52%|█████▏    | 26000/50000 [00:00<00:00, 27940.46 examples/s][A
+Standardizing text corpus format:  58%|█████▊    | 29000/50000 [00:01<00:00, 28172.79 examples/s][A
+Standardizing text corpus format:  64%|██████▍   | 32000/50000 [00:01<00:00, 28354.44 examples/s][A
+Standardizing text corpus format:  70%|███████   | 35000/50000 [00:01<00:00, 28444.16 examples/s][A
+Standardizing text corpus format:  76%|███████▌  | 37975/50000 [00:01<00:00, 28822.93 examples/s][A
+Standardizing text corpus format:  84%|████████▍ | 42141/50000 [00:01<00:00, 28413.82 examples/s][A
+Standardizing text corpus format:  90%|█████████ | 45001/50000 [00:01<00:00, 28457.11 examples/s][A
+Standardizing text corpus format:  96%|█████████▌| 48000/50000 [00:01<00:00, 28567.63 examples/s][AStandardizing text corpus format: 100%|██████████| 50000/50000 [00:01<00:00, 26803.86 examples/s]

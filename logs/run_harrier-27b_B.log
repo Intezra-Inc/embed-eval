@@ -1,0 +1,432 @@
+The task 'AVMemeExamAT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'AVMemeExamAT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'ActivityNetCaptionsT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'ActivityNetCaptionsT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'AudioCapsAVVA2TRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'AudioCapsAVVA2TRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'AudioCapsAVVT2ARetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'AudioCapsAVVT2ARetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'MSVDT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'MSVDT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'VALOR32KT2VARetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'VALOR32KT2VARetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'VATEXV2ARetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'VATEXV2ARetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'VATEXVA2TRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'VATEXVA2TRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'VGGSoundAVA2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'VGGSoundAVA2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'YouCook2T2VARetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'YouCook2T2VARetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'EgoSchemaVideoCentricQA' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'EgoSchemaVideoCentricQA' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'AVEDatasetClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'AVEDatasetClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'AVMemeAudioVideoClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'AVMemeAudioVideoClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'BreakfastClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'BreakfastClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'Kinetics700VA' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'Kinetics700VA' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'RAVDESSAVClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'RAVDESSAVClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'UCF101VideoAudioClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'UCF101VideoAudioClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'MELDEmotionAudioVideoClustering' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'MELDEmotionAudioVideoClustering' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'MusicAVQACLSAudioVideoClustering' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'MusicAVQACLSAudioVideoClustering' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'HumanAnimalCartoonVAPairClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'HumanAnimalCartoonVAPairClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'MusicAVQAVAPairClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'MusicAVQAVAPairClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'HMDB51ZeroShot' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'HMDB51ZeroShot' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'WorldSenseAudioVideoZeroShot' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'WorldSenseAudioVideoZeroShot' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'AVMemeExamT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'AVMemeExamT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'ActivityNetCaptionsT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+The task 'AudioCapsAVT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'AudioCapsAVT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'DiDeMoV2TRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'DiDeMoV2TRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'MSVDV2TRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'MSVDV2TRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'Panda70MT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'Panda70MT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'VALOR32KT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'VALOR32KT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'VATEXT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'VATEXT2VRetrieval' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'OmniVideoBenchVideoCentricQA' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/abstasks/retrieval.py:106: UserWarning: The task 'OmniVideoBenchVideoCentricQA' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  super().__init__(*args, **kwargs)
+The task 'AVMemeVideoClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'AVMemeVideoClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'BreakfastClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+The task 'Kinetics700V' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'Kinetics700V' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'VGGSoundV' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'VGGSoundV' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'RAVDESSVideoClustering' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'RAVDESSVideoClustering' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'HumanAnimalCartoonVPairClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'HumanAnimalCartoonVPairClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'Kinetics400ZeroShot' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'Kinetics400ZeroShot' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'MELDVideoZeroShot' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'MELDVideoZeroShot' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'UCF101VideoZeroShotClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'UCF101VideoZeroShotClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'WorldSenseVideoZeroShot' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'WorldSenseVideoZeroShot' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'AVMemeVideoClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+The task 'BreakfastClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+The task 'HMDB51Classification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'HMDB51Classification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'Kinetics600V' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'Kinetics600V' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'MELDVideoClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'MELDVideoClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'WorldSenseVideoClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'WorldSenseVideoClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'HumanAnimalCartoonVPairClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+The task 'MusicAVQAVPairClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'MusicAVQAVPairClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The task 'RAVDESSAVVPairClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+~/embed-eval/venv/lib/python3.12/site-packages/mteb/get_tasks.py:371: UserWarning: The task 'RAVDESSAVVPairClassification' is currently in beta. This means that the dataset is still being tested and may be subject to changes. This means that the scores of this dataset is liable to change and should be used with caution.
+  task = _TASKS_REGISTRY[task_name]()
+The `tokenizer_kwargs` argument was renamed and is now deprecated. Please use `processor_kwargs` instead.
+Loading weights:   0%|          | 0/808 [00:00<?, ?it/s]Loading weights:  36%|███▌      | 291/808 [00:00<00:00, 2857.24it/s]Loading weights:  71%|███████▏  | 577/808 [00:00<00:00, 2739.71it/s]Loading weights: 100%|██████████| 808/808 [00:00<00:00, 2778.13it/s]
+{
+ "model": "harrier-27b",
+ "registry_name": "microsoft/harrier-oss-v1-27b",
+ "local_path": "~/embed-eval/models/harrier-oss-v1-27b",
+ "revision": "0c0fc62f6d8af9e8604cb818c412301b103a0093",
+ "loader": "InstructSentenceTransformerModel",
+ "max_seq_length": 8192,
+ "dtype": "torch.bfloat16",
+ "zembed_compat_shim": false,
+ "st_prompts": {
+  "query": "",
+  "document": "",
+  "web_search_query": "Instruct: Given a web search query, retrieve relevant passages that answer the query\nQuery: ",
+  "sts_query": "Instruct: Retrieve semantically similar text\nQuery: ",
+  "bitext_query": "Instruct: Retrieve parallel sentences\nQuery: "
+ },
+ "modules": [
+  "Transformer",
+  "Pooling",
+  "Normalize"
+ ],
+ "pooling": "Pooling({'embedding_dimension': 5376, 'pooling_mode': 'lasttoken', 'include_prompt': True})",
+ "embed_dim": 5376,
+ "n_params": 27009346304,
+ "instruction_template": "Instruct: {task}\\nQuery: (queries only; mteb Harrier loader)",
+ "loader_kwargs_overridden": {
+  "apply_instruction_to_passages": false,
+  "prompts_dict": "dict[131]"
+ }
+}
+Evaluating tasks:   0%|          | 0/4 [00:00<?, ?it/s]Evaluating task CodeSearchNetCCRetrieval:   0%|          | 0/4 [00:00<?, ?it/s]Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+
+Standardizing text corpus format:   0%|          | 0/50000 [00:00<?, ? examples/s][A
+Standardizing text corpus format:   7%|▋         | 3472/50000 [00:00<00:01, 34489.38 examples/s][A
+Standardizing text corpus format:  14%|█▍        | 7053/50000 [00:00<00:01, 35258.58 examples/s][A
+Standardizing text corpus format:  21%|██▏       | 10718/50000 [00:00<00:01, 35888.34 examples/s][A
+Standardizing text corpus format:  32%|███▏      | 16031/50000 [00:00<00:00, 35654.89 examples/s][A
+Standardizing text corpus format:  39%|███▉      | 19713/50000 [00:00<00:00, 36026.99 examples/s][A
+Standardizing text corpus format:  50%|█████     | 25016/50000 [00:00<00:00, 35749.42 examples/s][A
+Standardizing text corpus format:  57%|█████▋    | 28687/50000 [00:00<00:00, 36013.34 examples/s][A
+Standardizing text corpus format:  65%|██████▍   | 32301/50000 [00:00<00:00, 36047.06 examples/s][A
+Standardizing text corpus format:  72%|███████▏  | 35967/50000 [00:01<00:00, 36221.14 examples/s][A
+Standardizing text corpus format:  83%|████████▎ | 41360/50000 [00:01<00:00, 36116.32 examples/s][A
+Standardizing text corpus format:  90%|████████▉ | 44994/50000 [00:01<00:00, 36172.97 examples/s][A
+Standardizing text corpus format: 100%|██████████| 50000/50000 [00:01<00:00, 35496.33 examples/s][AStandardizing text corpus format: 100%|██████████| 50000/50000 [00:01<00:00, 35756.73 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/50000 [00:00<?, ? examples/s][A
+Standardizing text corpus format:   7%|▋         | 3379/50000 [00:00<00:01, 33571.92 examples/s][A
+Standardizing text corpus format:  14%|█▍        | 6983/50000 [00:00<00:01, 35014.64 examples/s][A
+Standardizing text corpus format:  21%|██        | 10567/50000 [00:00<00:01, 35387.95 examples/s][A
+Standardizing text corpus format:  32%|███▏      | 15924/50000 [00:00<00:00, 35546.47 examples/s][A
+Standardizing text corpus format:  39%|███▉      | 19542/50000 [00:00<00:00, 35745.39 examples/s][A
+Standardizing text corpus format:  46%|████▋     | 23160/50000 [00:00<00:00, 35879.89 examples/s][A
+Standardizing text corpus format:  57%|█████▋    | 28504/50000 [00:00<00:00, 35774.27 examples/s][A
+Standardizing text corpus format:  64%|██████▍   | 32101/50000 [00:00<00:00, 35825.56 examples/s][A
+Standardizing text corpus format:  72%|███████▏  | 35768/50000 [00:01<00:00, 36063.94 examples/s][A
+Standardizing text corpus format:  82%|████████▏ | 41174/50000 [00:01<00:00, 36053.02 examples/s][A
+Standardizing text corpus format:  90%|█████████ | 45000/50000 [00:01<00:00, 36244.99 examples/s][AStandardizing text corpus format: 100%|██████████| 50000/50000 [00:01<00:00, 37268.64 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/50000 [00:00<?, ? examples/s][A
+Standardizing text corpus format:   9%|▉         | 4694/50000 [00:00<00:02, 16216.58 examples/s][A
+Standardizing text corpus format:  21%|██        | 10337/50000 [00:00<00:01, 29503.69 examples/s][A
+Standardizing text corpus format:  32%|███▏      | 16000/50000 [00:00<00:00, 38163.28 examples/s][A
+Standardizing text corpus format:  44%|████▎     | 21830/50000 [00:00<00:00, 44482.98 examples/s][A
+Standardizing text corpus format:  55%|█████▍    | 27453/50000 [00:00<00:00, 48119.13 examples/s][A
+Standardizing text corpus format:  66%|██████▋   | 33188/50000 [00:00<00:00, 50947.84 examples/s][A
+Standardizing text corpus format:  78%|███████▊  | 39000/50000 [00:00<00:00, 53006.77 examples/s][A
+Standardizing text corpus format:  95%|█████████▍| 47274/50000 [00:01<00:00, 53852.90 examples/s][AStandardizing text corpus format: 100%|██████████| 50000/50000 [00:01<00:00, 45902.16 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/50000 [00:00<?, ? examples/s][A
+Standardizing text corpus format:   1%|          | 468/50000 [00:00<00:36, 1375.28 examples/s][A
+Standardizing text corpus format:   5%|▌         | 2694/50000 [00:00<00:09, 5203.80 examples/s][A
+Standardizing text corpus format:  17%|█▋        | 8316/50000 [00:00<00:02, 16706.49 examples/s][A
+Standardizing text corpus format:  28%|██▊       | 14000/50000 [00:00<00:01, 26462.53 examples/s][A
+Standardizing text corpus format:  40%|███▉      | 19786/50000 [00:00<00:00, 34562.49 examples/s][A
+Standardizing text corpus format:  51%|█████     | 25335/50000 [00:00<00:00, 40197.09 examples/s][A
+Standardizing text corpus format:  62%|██████▏   | 31000/50000 [00:01<00:00, 44645.06 examples/s][A
+Standardizing text corpus format:  74%|███████▎  | 36823/50000 [00:01<00:00, 48495.13 examples/s][A
+Standardizing text corpus format:  85%|████████▌ | 42620/50000 [00:01<00:00, 51224.01 examples/s][A
+Standardizing text corpus format: 100%|██████████| 50000/50000 [00:01<00:00, 52543.99 examples/s][AStandardizing text corpus format: 100%|██████████| 50000/50000 [00:01<00:00, 34975.51 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/50000 [00:00<?, ? examples/s][A
+Standardizing text corpus format:   3%|▎         | 1694/50000 [00:00<00:07, 6734.72 examples/s][A
+Standardizing text corpus format:  14%|█▍        | 7196/50000 [00:00<00:01, 24223.02 examples/s][A
+Standardizing text corpus format:  26%|██▌       | 12912/50000 [00:00<00:01, 35452.29 examples/s][A
+Standardizing text corpus format:  37%|███▋      | 18647/50000 [00:00<00:00, 42622.22 examples/s][A
+Standardizing text corpus format:  48%|████▊     | 24002/50000 [00:00<00:00, 46103.66 examples/s][A
+Standardizing text corpus format:  60%|█████▉    | 29767/50000 [00:00<00:00, 49712.60 examples/s][A
+Standardizing text corpus format:  71%|███████   | 35362/50000 [00:00<00:00, 51635.33 examples/s][A
+Standardizing text corpus format:  82%|████████▏ | 41079/50000 [00:00<00:00, 53328.06 examples/s][A
+Standardizing text corpus format:  98%|█████████▊| 49177/50000 [00:01<00:00, 53487.48 examples/s][AStandardizing text corpus format: 100%|██████████| 50000/50000 [00:01<00:00, 44732.41 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/30652 [00:00<?, ? examples/s][A
+Standardizing text corpus format:   2%|▏         | 468/30652 [00:00<00:24, 1212.58 examples/s][A
+Standardizing text corpus format:  18%|█▊        | 5565/30652 [00:00<00:01, 14653.82 examples/s][A
+Standardizing text corpus format:  36%|███▌      | 11001/30652 [00:00<00:00, 25705.57 examples/s][A
+Standardizing text corpus format:  54%|█████▍    | 16572/30652 [00:00<00:00, 34242.32 examples/s][A
+Standardizing text corpus format:  72%|███████▏  | 22014/30652 [00:00<00:00, 40071.78 examples/s][A
+Standardizing text corpus format:  91%|█████████ | 27769/30652 [00:00<00:00, 45178.22 examples/s][AStandardizing text corpus format: 100%|██████████| 30652/30652 [00:00<00:00, 32662.05 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/50000 [00:00<?, ? examples/s][A
+Standardizing text corpus format:   7%|▋         | 3493/50000 [00:00<00:01, 34518.95 examples/s][A
+Standardizing text corpus format:  14%|█▍        | 7000/50000 [00:00<00:01, 34718.12 examples/s][A
+Standardizing text corpus format:  21%|██        | 10612/50000 [00:00<00:01, 35350.85 examples/s][A
+Standardizing text corpus format:  28%|██▊       | 14234/50000 [00:00<00:01, 35690.50 examples/s][A
+Standardizing text corpus format:  36%|███▌      | 17836/50000 [00:00<00:00, 35601.45 examples/s][A
+Standardizing text corpus format:  43%|████▎     | 21460/50000 [00:00<00:00, 35817.07 examples/s][A
+Standardizing text corpus format:  54%|█████▍    | 26915/50000 [00:00<00:00, 36042.75 examples/s][A
+Standardizing text corpus format:  64%|██████▍   | 32166/50000 [00:00<00:00, 35652.49 examples/s][A
+Standardizing text corpus format:  72%|███████▏  | 35886/50000 [00:01<00:00, 35994.42 examples/s][A
+Standardizing text corpus format:  83%|████████▎ | 41287/50000 [00:01<00:00, 35994.43 examples/s][A
+Standardizing text corpus format:  90%|████████▉ | 44976/50000 [00:01<00:00, 36221.54 examples/s][A
+Standardizing text corpus format: 100%|██████████| 50000/50000 [00:01<00:00, 36015.01 examples/s][AStandardizing text corpus format: 100%|██████████| 50000/50000 [00:01<00:00, 35795.81 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/15201 [00:00<?, ? examples/s][A
+Standardizing text corpus format:  23%|██▎       | 3441/15201 [00:00<00:00, 34211.91 examples/s][A
+Standardizing text corpus format:  46%|████▌     | 6940/15201 [00:00<00:00, 34666.84 examples/s][A
+Standardizing text corpus format:  69%|██████▊   | 10431/15201 [00:00<00:00, 34771.84 examples/s][A
+Standardizing text corpus format:  92%|█████████▏| 13952/15201 [00:00<00:00, 34940.93 examples/s][AStandardizing text corpus format: 100%|██████████| 15201/15201 [00:00<00:00, 34489.40 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/50000 [00:00<?, ? examples/s][A
+Standardizing text corpus format:   7%|▋         | 3652/50000 [00:00<00:01, 36321.81 examples/s][A
+Standardizing text corpus format:  18%|█▊        | 9000/50000 [00:00<00:01, 35755.63 examples/s][A
+Standardizing text corpus format:  25%|██▌       | 12696/50000 [00:00<00:01, 36226.35 examples/s][A
+Standardizing text corpus format:  36%|███▋      | 18154/50000 [00:00<00:00, 36295.23 examples/s][A
+Standardizing text corpus format:  44%|████▍     | 21882/50000 [00:00<00:00, 36518.85 examples/s][A
+Standardizing text corpus format:  55%|█████▍    | 27288/50000 [00:00<00:00, 36328.05 examples/s][A
+Standardizing text corpus format:  62%|██████▏   | 31000/50000 [00:00<00:00, 36444.16 examples/s][A
+Standardizing text corpus format:  69%|██████▉   | 34669/50000 [00:00<00:00, 36511.09 examples/s][A
+Standardizing text corpus format:  80%|████████  | 40134/50000 [00:01<00:00, 36478.01 examples/s][A
+Standardizing text corpus format:  88%|████████▊ | 43878/50000 [00:01<00:00, 36642.99 examples/s][A
+Standardizing text corpus format:  98%|█████████▊| 49220/50000 [00:01<00:00, 36267.11 examples/s][AStandardizing text corpus format: 100%|██████████| 50000/50000 [00:01<00:00, 36313.70 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/50000 [00:00<?, ? examples/s][A
+Standardizing text corpus format:   7%|▋         | 3476/50000 [00:00<00:01, 34565.54 examples/s][A
+Standardizing text corpus format:  14%|█▍        | 7041/50000 [00:00<00:01, 35194.67 examples/s][A
+Standardizing text corpus format:  21%|██▏       | 10673/50000 [00:00<00:01, 35702.59 examples/s][A
+Standardizing text corpus format:  29%|██▊       | 14313/50000 [00:00<00:00, 35974.91 examples/s][A
+Standardizing text corpus format:  36%|███▌      | 18000/50000 [00:00<00:00, 36235.04 examples/s][A
+Standardizing text corpus format:  43%|████▎     | 21682/50000 [00:00<00:00, 36430.91 examples/s][A
+Standardizing text corpus format:  54%|█████▍    | 27094/50000 [00:00<00:00, 36279.03 examples/s][A
+Standardizing text corpus format:  62%|██████▏   | 30809/50000 [00:00<00:00, 36527.09 examples/s][A
+Standardizing text corpus format:  69%|██████▉   | 34474/50000 [00:00<00:00, 36559.81 examples/s][A
+Standardizing text corpus format:  80%|███████▉  | 39964/50000 [00:01<00:00, 36571.35 examples/s][A
+Standardizing text corpus format:  91%|█████████ | 45383/50000 [00:01<00:00, 36411.92 examples/s][A
+Standardizing text corpus format: 100%|██████████| 50000/50000 [00:01<00:00, 36096.11 examples/s][AStandardizing text corpus format: 100%|██████████| 50000/50000 [00:01<00:00, 36148.28 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/50000 [00:00<?, ? examples/s][A
+Standardizing text corpus format:   7%|▋         | 3515/50000 [00:00<00:01, 34957.01 examples/s][A
+Standardizing text corpus format:  17%|█▋        | 8540/50000 [00:00<00:01, 27192.64 examples/s][A
+Standardizing text corpus format:  29%|██▊       | 14276/50000 [00:00<00:00, 37497.86 examples/s][A
+Standardizing text corpus format:  40%|████      | 20033/50000 [00:00<00:00, 44077.71 examples/s][A
+Standardizing text corpus format:  52%|█████▏    | 25773/50000 [00:00<00:00, 48326.93 examples/s][A
+Standardizing text corpus format:  63%|██████▎   | 31688/50000 [00:00<00:00, 51713.85 examples/s][A
+Standardizing text corpus format:  75%|███████▍  | 37372/50000 [00:00<00:00, 53294.72 examples/s][A
+Standardizing text corpus format:  87%|████████▋ | 43327/50000 [00:00<00:00, 55206.86 examples/s][A
+Standardizing text corpus format: 100%|██████████| 50000/50000 [00:01<00:00, 55532.37 examples/s][AStandardizing text corpus format: 100%|██████████| 50000/50000 [00:01<00:00, 48762.34 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/32735 [00:00<?, ? examples/s][A
+Standardizing text corpus format:   1%|▏         | 468/32735 [00:00<00:18, 1768.81 examples/s][A
+Standardizing text corpus format:  12%|█▏        | 3867/32735 [00:00<00:02, 13065.12 examples/s][A
+Standardizing text corpus format:  20%|██        | 6694/32735 [00:00<00:01, 13170.79 examples/s][A
+Standardizing text corpus format:  31%|███       | 10184/32735 [00:00<00:01, 18756.41 examples/s][A
+Standardizing text corpus format:  42%|████▏     | 13697/32735 [00:00<00:00, 23152.81 examples/s][A
+Standardizing text corpus format:  53%|█████▎    | 17198/32735 [00:00<00:00, 26439.31 examples/s][A
+Standardizing text corpus format:  63%|██████▎   | 20774/32735 [00:00<00:00, 29021.45 examples/s][A
+Standardizing text corpus format:  74%|███████▍  | 24186/32735 [00:01<00:00, 30486.96 examples/s][A
+Standardizing text corpus format:  85%|████████▍ | 27815/32735 [00:01<00:00, 32083.16 examples/s][A
+Standardizing text corpus format:  96%|█████████▌| 31304/32735 [00:01<00:00, 32902.66 examples/s][AStandardizing text corpus format: 100%|██████████| 32735/32735 [00:01<00:00, 24758.72 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/27588 [00:00<?, ? examples/s][A
+Standardizing text corpus format:  13%|█▎        | 3500/27588 [00:00<00:00, 34696.28 examples/s][A
+Standardizing text corpus format:  26%|██▌       | 7066/27588 [00:00<00:00, 35260.42 examples/s][A
+Standardizing text corpus format:  39%|███▉      | 10750/27588 [00:00<00:00, 35976.18 examples/s][A
+Standardizing text corpus format:  52%|█████▏    | 14363/27588 [00:00<00:00, 36034.64 examples/s][A
+Standardizing text corpus format:  65%|██████▌   | 18000/27588 [00:00<00:00, 36024.98 examples/s][A
+Standardizing text corpus format:  79%|███████▊  | 21658/27588 [00:00<00:00, 36209.58 examples/s][A
+Standardizing text corpus format:  98%|█████████▊| 27022/27588 [00:00<00:00, 36016.39 examples/s][AStandardizing text corpus format: 100%|██████████| 27588/27588 [00:00<00:00, 35842.41 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/50000 [00:00<?, ? examples/s][A
+Standardizing text corpus format:   7%|▋         | 3502/50000 [00:00<00:01, 34827.47 examples/s][A
+Standardizing text corpus format:  14%|█▍        | 7010/50000 [00:00<00:01, 34971.39 examples/s][A
+Standardizing text corpus format:  21%|██▏       | 10660/50000 [00:00<00:01, 35663.76 examples/s][A
+Standardizing text corpus format:  29%|██▊       | 14262/50000 [00:00<00:00, 35799.92 examples/s][A
+Standardizing text corpus format:  36%|███▌      | 17907/50000 [00:00<00:00, 36034.08 examples/s][A
+Standardizing text corpus format:  43%|████▎     | 21515/50000 [00:00<00:00, 36046.52 examples/s][A
+Standardizing text corpus format:  50%|█████     | 25157/50000 [00:00<00:00, 36165.35 examples/s][A
+Standardizing text corpus format:  58%|█████▊    | 28884/50000 [00:00<00:00, 36414.80 examples/s][A
+Standardizing text corpus format:  68%|██████▊   | 34101/50000 [00:00<00:00, 35750.00 examples/s][A
+Standardizing text corpus format:  75%|███████▌  | 37728/50000 [00:01<00:00, 35890.55 examples/s][A
+Standardizing text corpus format:  86%|████████▌ | 43018/50000 [00:01<00:00, 35652.96 examples/s][A
+Standardizing text corpus format:  93%|█████████▎| 46625/50000 [00:01<00:00, 35762.15 examples/s][AStandardizing text corpus format: 100%|██████████| 50000/50000 [00:01<00:00, 35786.53 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/50000 [00:00<?, ? examples/s][A
+Standardizing text corpus format:  11%|█         | 5574/50000 [00:00<00:00, 55530.60 examples/s][A
+Standardizing text corpus format:  23%|██▎       | 11473/50000 [00:00<00:00, 57555.01 examples/s][A
+Standardizing text corpus format:  35%|███▍      | 17314/50000 [00:00<00:00, 57939.41 examples/s][A
+Standardizing text corpus format:  47%|████▋     | 23272/50000 [00:00<00:00, 58583.20 examples/s][A
+Standardizing text corpus format:  64%|██████▍   | 32004/50000 [00:00<00:00, 58408.47 examples/s][A
+Standardizing text corpus format:  76%|███████▌  | 38024/50000 [00:00<00:00, 58951.03 examples/s][A
+Standardizing text corpus format:  88%|████████▊ | 44016/50000 [00:00<00:00, 59240.89 examples/s][AStandardizing text corpus format: 100%|██████████| 50000/50000 [00:00<00:00, 58734.10 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/50000 [00:00<?, ? examples/s][A
+Standardizing text corpus format:   1%|          | 469/50000 [00:00<00:30, 1625.50 examples/s][A
+Standardizing text corpus format:   3%|▎         | 1694/50000 [00:00<00:11, 4068.72 examples/s][A
+Standardizing text corpus format:  15%|█▌        | 7506/50000 [00:00<00:02, 18786.35 examples/s][A
+Standardizing text corpus format:  26%|██▋       | 13141/50000 [00:00<00:01, 29304.90 examples/s][A
+Standardizing text corpus format:  38%|███▊      | 18991/50000 [00:00<00:00, 37644.26 examples/s][A
+Standardizing text corpus format:  50%|████▉     | 24905/50000 [00:00<00:00, 43872.88 examples/s][A
+Standardizing text corpus format:  62%|██████▏   | 30825/50000 [00:00<00:00, 48358.54 examples/s][A
+Standardizing text corpus format:  73%|███████▎  | 36585/50000 [00:01<00:00, 51081.56 examples/s][A
+Standardizing text corpus format:  85%|████████▌ | 42501/50000 [00:01<00:00, 53472.22 examples/s][A
+Standardizing text corpus format:  97%|█████████▋| 48389/50000 [00:01<00:00, 55079.87 examples/s][AStandardizing text corpus format: 100%|██████████| 50000/50000 [00:01<00:00, 38546.53 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/31061 [00:00<?, ? examples/s][A
+Standardizing text corpus format:  18%|█▊        | 5592/31061 [00:00<00:00, 55689.42 examples/s][A
+Standardizing text corpus format:  37%|███▋      | 11354/31061 [00:00<00:00, 56816.63 examples/s][A
+Standardizing text corpus format:  55%|█████▌    | 17087/31061 [00:00<00:00, 57047.74 examples/s][A
+Standardizing text corpus format:  74%|███████▍  | 23000/31061 [00:00<00:00, 57713.92 examples/s][A
+Standardizing text corpus format:  93%|█████████▎| 28888/31061 [00:00<00:00, 58127.86 examples/s][AStandardizing text corpus format: 100%|██████████| 31061/31061 [00:00<00:00, 57502.81 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/50000 [00:00<?, ? examples/s][A
+Standardizing text corpus format:   7%|▋         | 3527/50000 [00:00<00:01, 35103.73 examples/s][A
+Standardizing text corpus format:  14%|█▍        | 7076/50000 [00:00<00:01, 35323.11 examples/s][A
+Standardizing text corpus format:  21%|██▏       | 10662/50000 [00:00<00:01, 35564.32 examples/s][A
+Standardizing text corpus format:  28%|██▊       | 14229/50000 [00:00<00:01, 35602.98 examples/s][A
+Standardizing text corpus format:  36%|███▌      | 17865/50000 [00:00<00:00, 35872.00 examples/s][A
+Standardizing text corpus format:  46%|████▋     | 23150/50000 [00:00<00:00, 35591.83 examples/s][A
+Standardizing text corpus format:  54%|█████▎    | 26770/50000 [00:00<00:00, 35646.20 examples/s][A
+Standardizing text corpus format:  61%|██████    | 30378/50000 [00:00<00:00, 35770.36 examples/s][A
+Standardizing text corpus format:  68%|██████▊   | 34000/50000 [00:00<00:00, 35779.11 examples/s][A
+Standardizing text corpus format:  79%|███████▊  | 39264/50000 [00:01<00:00, 35508.08 examples/s][A
+Standardizing text corpus format:  86%|████████▌ | 42913/50000 [00:01<00:00, 35770.24 examples/s][A
+Standardizing text corpus format:  95%|█████████▍| 47425/50000 [00:01<00:00, 38367.85 examples/s][AStandardizing text corpus format: 100%|██████████| 50000/50000 [00:01<00:00, 37090.93 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/50000 [00:00<?, ? examples/s][A
+Standardizing text corpus format:  12%|█▏        | 5760/50000 [00:00<00:00, 57384.57 examples/s][A
+Standardizing text corpus format:  23%|██▎       | 11652/50000 [00:00<00:00, 58281.91 examples/s][A
+Standardizing text corpus format:  35%|███▌      | 17633/50000 [00:00<00:00, 58975.62 examples/s][A
+Standardizing text corpus format:  53%|█████▎    | 26495/50000 [00:00<00:00, 59021.35 examples/s][A
+Standardizing text corpus format:  65%|██████▍   | 32480/50000 [00:00<00:00, 59283.48 examples/s][A
+Standardizing text corpus format:  82%|████████▏ | 41248/50000 [00:00<00:00, 58941.40 examples/s][A
+Standardizing text corpus format:  94%|█████████▍| 47161/50000 [00:00<00:00, 58990.35 examples/s][AStandardizing text corpus format: 100%|██████████| 50000/50000 [00:00<00:00, 58883.95 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/50000 [00:00<?, ? examples/s][A
+Standardizing text corpus format:   5%|▌         | 2694/50000 [00:00<00:04, 10953.17 examples/s][A
+Standardizing text corpus format:  17%|█▋        | 8490/50000 [00:00<00:01, 28222.87 examples/s][A
+Standardizing text corpus format:  28%|██▊       | 14187/50000 [00:00<00:00, 38114.93 examples/s][A
+Standardizing text corpus format:  40%|████      | 20008/50000 [00:00<00:00, 44736.96 examples/s][A
+Standardizing text corpus format:  52%|█████▏    | 26000/50000 [00:00<00:00, 49409.36 examples/s][A
+Standardizing text corpus format:  64%|██████▍   | 32000/50000 [00:00<00:00, 52489.86 examples/s][A
+Standardizing text corpus format:  76%|███████▌  | 37831/50000 [00:00<00:00, 54279.49 examples/s][A
+Standardizing text corpus format:  88%|████████▊ | 43768/50000 [00:00<00:00, 55833.47 examples/s][A
+Standardizing text corpus format:  99%|█████████▉| 49710/50000 [00:01<00:00, 56920.72 examples/s][AStandardizing text corpus format: 100%|██████████| 50000/50000 [00:01<00:00, 47369.08 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/50000 [00:00<?, ? examples/s][A
+Standardizing text corpus format:   1%|          | 466/50000 [00:00<00:58, 844.14 examples/s][A
+Standardizing text corpus format:  12%|█▏        | 6120/50000 [00:00<00:03, 12293.58 examples/s][A
+Standardizing text corpus format:  24%|██▍       | 11989/50000 [00:00<00:01, 22749.70 examples/s][A
+Standardizing text corpus format:  36%|███▌      | 17752/50000 [00:00<00:01, 31268.31 examples/s][A
+Standardizing text corpus format:  47%|████▋     | 23617/50000 [00:00<00:00, 38350.38 examples/s][A
+Standardizing text corpus format:  59%|█████▉    | 29498/50000 [00:01<00:00, 43867.90 examples/s][A
+Standardizing text corpus format:  70%|███████   | 35181/50000 [00:01<00:00, 47471.71 examples/s][A
+Standardizing text corpus format:  82%|████████▏ | 41037/50000 [00:01<00:00, 50624.36 examples/s][A
+Standardizing text corpus format:  94%|█████████▍| 46985/50000 [00:01<00:00, 53075.10 examples/s][AStandardizing text corpus format: 100%|██████████| 50000/50000 [00:01<00:00, 35523.96 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/50000 [00:00<?, ? examples/s][A
+Standardizing text corpus format:  11%|█         | 5605/50000 [00:00<00:00, 55828.96 examples/s][A
+Standardizing text corpus format:  23%|██▎       | 11324/50000 [00:00<00:00, 56621.72 examples/s][A
+Standardizing text corpus format:  34%|███▍      | 17015/50000 [00:00<00:00, 56747.21 examples/s][A
+Standardizing text corpus format:  46%|████▌     | 22869/50000 [00:00<00:00, 57451.47 examples/s][A
+Standardizing text corpus format:  57%|█████▋    | 28707/50000 [00:00<00:00, 57781.96 examples/s][A
+Standardizing text corpus format:  75%|███████▍  | 37313/50000 [00:00<00:00, 57600.96 examples/s][A
+Standardizing text corpus format:  86%|████████▋ | 43175/50000 [00:00<00:00, 57898.43 examples/s][A
+Standardizing text corpus format:  98%|█████████▊| 49059/50000 [00:00<00:00, 58173.51 examples/s][AStandardizing text corpus format: 100%|██████████| 50000/50000 [00:00<00:00, 57637.75 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/18237 [00:00<?, ? examples/s][A
+Standardizing text corpus format:   3%|▎         | 468/18237 [00:00<00:14, 1205.71 examples/s][A
+Standardizing text corpus format:  33%|███▎      | 6035/18237 [00:00<00:00, 15857.49 examples/s][A
+Standardizing text corpus format:  53%|█████▎    | 9694/18237 [00:00<00:00, 14307.01 examples/s][A
+Standardizing text corpus format:  74%|███████▍  | 13479/18237 [00:01<00:00, 7819.25 examples/s][AStandardizing text corpus format: 100%|██████████| 18237/18237 [00:01<00:00, 10998.16 examples/s]
+Evaluating task CodeSearchNetCCRetrieval:  25%|██▌       | 1/4 [13:46:00<41:18:02, 49560.95s/it]Evaluating task CodeFeedbackST:  25%|██▌       | 1/4 [13:46:00<41:18:02, 49560.95s/it]          [W1013 08:11:10.071021085 CUDACachingAllocator.cpp:3934] memory allocation failed with OOM on device 0 while trying to allocate 6262095872 bytes (free: 314441728, total: 102069305344).
+Evaluating task CodeFeedbackST:  50%|█████     | 2/4 [25:40:36<25:20:56, 45628.23s/it]Evaluating task CodeFeedbackMT:  50%|█████     | 2/4 [25:40:36<25:20:56, 45628.23s/it]Evaluating task CodeFeedbackMT:  75%|███████▌  | 3/4 [32:19:34<9:55:23, 35723.94s/it] Evaluating task SyntheticText2SQL:  75%|███████▌  | 3/4 [32:19:34<9:55:23, 35723.94s/it]Evaluating task SyntheticText2SQL: 100%|██████████| 4/4 [32:19:34<00:00, 29093.53s/it]  
+CodeSearchNetCCRetrieval       nDCG@10=0.7904
+CodeFeedbackST                 nDCG@10=0.8929
+CodeFeedbackMT                 nDCG@10=0.9519
+SyntheticText2SQL              nDCG@10=0.7607

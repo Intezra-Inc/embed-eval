@@ -1,0 +1,261 @@
+{
+ "public_revisions": {
+  "microsoft/harrier-oss-v1-27b": "0c0fc62f6d8af9e8604cb818c412301b103a0093",
+  "Qwen/Qwen3-Embedding-8B": "4e423935c619ae4df87b646a3ce949610c66241c",
+  "nvidia/Nemotron-3-Embed-8B-BF16": "dd9d06b1852ef836d3dc2fbd2b71a34356912759"
+ },
+ "rows": {
+  "StackOverflowQA": {
+   "Nemotron-8B": {
+    "ours": 0.97682,
+    "public": null
+   },
+   "Qwen3-8B": {
+    "ours": 0.9469,
+    "public": 0.94751
+   },
+   "Harrier-27B": {
+    "ours": 0.9691,
+    "public": 0.96994
+   }
+  },
+  "TwitterHjerneRetrieval": {
+   "Nemotron-8B": {
+    "ours": 0.82828,
+    "public": null
+   },
+   "Qwen3-8B": {
+    "ours": 0.78933,
+    "public": 0.78199
+   },
+   "Harrier-27B": {
+    "ours": 0.90947,
+    "public": 0.90211
+   }
+  },
+  "AILAStatutes": {
+   "Nemotron-8B": {
+    "ours": 0.58289,
+    "public": 0.5826
+   },
+   "Qwen3-8B": {
+    "ours": 0.81972,
+    "public": 0.85086
+   },
+   "Harrier-27B": {
+    "ours": 0.55021,
+    "public": 0.55137
+   }
+  },
+  "ArguAna": {
+   "Nemotron-8B": {
+    "ours": 0.63163,
+    "public": null
+   },
+   "Qwen3-8B": {
+    "ours": 0.76544,
+    "public": 0.76852
+   },
+   "Harrier-27B": {
+    "ours": 0.68196,
+    "public": 0.67759
+   }
+  },
+  "HagridRetrieval": {
+   "Nemotron-8B": {
+    "ours": 0.9887,
+    "public": null
+   },
+   "Qwen3-8B": {
+    "ours": 0.98847,
+    "public": 0.98915
+   },
+   "Harrier-27B": {
+    "ours": 0.98896,
+    "public": 0.98896
+   }
+  },
+  "LegalBenchCorporateLobbying": {
+   "Nemotron-8B": {
+    "ours": 0.96017,
+    "public": null
+   },
+   "Qwen3-8B": {
+    "ours": 0.95242,
+    "public": 0.95203
+   },
+   "Harrier-27B": {
+    "ours": 0.95742,
+    "public": 0.9578
+   }
+  },
+  "LEMBPasskeyRetrieval": {
+   "Nemotron-8B": {
+    "ours": 0.85,
+    "public": null
+   },
+   "Qwen3-8B": {
+    "ours": 0.8425,
+    "public": 0.8474999999999999
+   },
+   "Harrier-27B": {
+    "ours": 0.8375,
+    "public": 0.975
+   }
+  },
+  "SCIDOCS": {
+   "Nemotron-8B": {
+    "ours": 0.25511,
+    "public": null
+   },
+   "Qwen3-8B": {
+    "ours": 0.32735,
+    "public": 0.32742
+   },
+   "Harrier-27B": {
+    "ours": 0.29099,
+    "public": 0.28932
+   }
+  },
+  "SpartQA": {
+   "Nemotron-8B": {
+    "ours": 0.65713,
+    "public": null
+   },
+   "Qwen3-8B": {
+    "ours": 0.15631,
+    "public": 0.15715
+   },
+   "Harrier-27B": {
+    "ours": 0.87954,
+    "public": 0.87693
+   }
+  },
+  "TempReasonL1": {
+   "Nemotron-8B": {
+    "ours": 0.52565,
+    "public": null
+   },
+   "Qwen3-8B": {
+    "ours": 0.01339,
+    "public": 0.01346
+   },
+   "Harrier-27B": {
+    "ours": 0.43588,
+    "public": 0.41844
+   }
+  },
+  "TRECCOVID": {
+   "Nemotron-8B": {
+    "ours": 0.86607,
+    "public": null
+   },
+   "Qwen3-8B": {
+    "ours": 0.94696,
+    "public": 0.94991
+   },
+   "Harrier-27B": {
+    "ours": 0.89131,
+    "public": 0.88855
+   }
+  },
+  "WinoGrande": {
+   "Nemotron-8B": {
+    "ours": 0.89262,
+    "public": null
+   },
+   "Qwen3-8B": {
+    "ours": 0.55039,
+    "public": 0.54225
+   },
+   "Harrier-27B": {
+    "ours": 0.93056,
+    "public": 0.93144
+   }
+  },
+  "BelebeleRetrieval": {
+   "Nemotron-8B": {
+    "ours": 0.8235757712765958,
+    "public": null
+   },
+   "Qwen3-8B": {
+    "ours": 0.8887161436170213,
+    "public": 0.8881362234042552
+   },
+   "Harrier-27B": {
+    "ours": 0.8655234840425532,
+    "public": 0.8648909840425532
+   }
+  },
+  "MLQARetrieval": {
+   "Nemotron-8B": {
+    "ours": 0.8472502040816328,
+    "public": null
+   },
+   "Qwen3-8B": {
+    "ours": 0.8156178571428571,
+    "public": 0.8354706122448979
+   },
+   "Harrier-27B": {
+    "ours": 0.7964605102040819,
+    "public": 0.7957584693877551
+   }
+  },
+  "StatcanDialogueDatasetRetrieval": {
+   "Nemotron-8B": {
+    "ours": 0.4986275,
+    "public": null
+   },
+   "Qwen3-8B": {
+    "ours": 0.4345325,
+    "public": 0.404605
+   },
+   "Harrier-27B": {
+    "ours": 0.6149225,
+    "public": 0.550995
+   }
+  },
+  "WikipediaRetrievalMultilingual": {
+   "Nemotron-8B": {
+    "ours": 0.9369749999999999,
+    "public": null
+   },
+   "Qwen3-8B": {
+    "ours": 0.9146675,
+    "public": 0.9196018749999999
+   },
+   "Harrier-27B": {
+    "ours": 0.923893125,
+    "public": 0.924549375
+   }
+  },
+  "CovidRetrieval": {
+   "Nemotron-8B": {
+    "ours": 0.83455,
+    "public": null
+   },
+   "Qwen3-8B": {
+    "ours": 0.87546,
+    "public": 0.87653
+   },
+   "Harrier-27B": {
+    "ours": 0.83203,
+    "public": 0.83096
+   }
+  },
+  "MIRACLRetrievalHardNegatives": {
+   "Nemotron-8B": {
+    "ours": 0.73096,
+    "public": 0.7171255555555555
+   },
+   "Qwen3-8B": {
+    "ours": 0.69663,
+    "public": 0.7057716666666667
+   },
+   "Harrier-27B": {
+    "ours": 0.6936461111111112,
+    "public": 0.6931716666666666
+   }
+  }
+ }
+}

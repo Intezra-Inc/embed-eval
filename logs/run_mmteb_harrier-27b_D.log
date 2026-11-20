@@ -1,0 +1,13 @@
+The `tokenizer_kwargs` argument was renamed and is now deprecated. Please use `processor_kwargs` instead.
+Loading weights:   0%|          | 0/808 [00:00<?, ?it/s]Loading weights:  63%|██████▎   | 511/808 [00:00<00:00, 5098.38it/s]Loading weights: 100%|██████████| 808/808 [00:00<00:00, 5096.60it/s]
+Evaluating tasks:   0%|          | 0/1 [00:00<?, ?it/s]Evaluating task MIRACLRetrievalHardNegatives:   0%|          | 0/1 [00:00<?, ?it/s]Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [1:06:11<00:00, 3971.58s/it]Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [1:06:11<00:00, 3971.58s/it]
+[2026-10-16T05:08:30Z] SUBSET DONE harrier-27b MIRACLRetrievalHardNegatives zh 66.2 min
+Evaluating tasks:   0%|          | 0/1 [00:00<?, ?it/s]Evaluating task MIRACLRetrievalHardNegatives:   0%|          | 0/1 [00:00<?, ?it/s]Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [31:42<00:00, 1902.81s/it]Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [31:42<00:00, 1902.81s/it]
+[2026-10-16T05:40:12Z] SUBSET DONE harrier-27b MIRACLRetrievalHardNegatives yo 31.7 min
+Evaluating tasks:   0%|          | 0/1 [00:00<?, ?it/s]Evaluating task MIRACLRetrievalHardNegatives:   0%|          | 0/1 [00:00<?, ?it/s]Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [2:12:54<00:00, 7974.69s/it]Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [2:12:54<00:00, 7974.69s/it]
+[2026-10-16T07:53:07Z] SUBSET DONE harrier-27b MIRACLRetrievalHardNegatives fa 132.9 min
+Evaluating tasks:   0%|          | 0/1 [00:00<?, ?it/s]Evaluating task MIRACLRetrievalHardNegatives:   0%|          | 0/1 [00:00<?, ?it/s]Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [51:35<00:00, 3095.52s/it]Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [51:35<00:00, 3095.52s/it]
+[2026-10-16T08:44:43Z] SUBSET DONE harrier-27b MIRACLRetrievalHardNegatives ko 51.6 min
+Evaluating tasks:   0%|          | 0/1 [00:00<?, ?it/s]Evaluating task MIRACLRetrievalHardNegatives:   0%|          | 0/1 [00:00<?, ?it/s]Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [1:09:41<00:00, 4181.70s/it]Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [1:09:41<00:00, 4181.70s/it]
+[2026-10-16T09:54:24Z] SUBSET DONE harrier-27b MIRACLRetrievalHardNegatives de 69.7 min

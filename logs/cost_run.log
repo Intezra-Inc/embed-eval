@@ -1,0 +1,16 @@
+[2026-10-14T07:29:30Z] all evaluation runs finished; starting cost benchmark
+[2026-10-14T07:29:30Z] START cost harrier-0.6b batch=32
+[2026-10-14T07:32:06Z] END cost harrier-0.6b batch=32 ok
+[2026-10-14T07:32:06Z] START cost qwen3-0.6b batch=32
+[2026-10-14T07:34:51Z] END cost qwen3-0.6b batch=32 ok
+[2026-10-14T07:34:51Z] START cost zembed-1 batch=32
+[2026-10-14T07:45:28Z] END cost zembed-1 batch=32 ok
+[2026-10-14T07:45:28Z] START cost qwen3-8b batch=32
+[2026-10-14T08:02:07Z] END cost qwen3-8b batch=32 ok
+[2026-10-14T08:02:07Z] START cost nemotron-8b batch=32
+[2026-10-14T08:18:48Z] END cost nemotron-8b batch=32 ok
+[2026-10-14T08:18:48Z] START cost harrier-27b batch=32
+  OOM at batch 32, retrying smaller
+[2026-10-14T08:19:12Z] START cost harrier-27b batch=16
+[2026-10-14T09:10:31Z] END cost harrier-27b batch=16 ok
+[2026-10-14T09:10:31Z] COST DONE

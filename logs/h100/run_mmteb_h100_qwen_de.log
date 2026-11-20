@@ -1,0 +1,10 @@
+The `tokenizer_kwargs` argument was renamed and is now deprecated. Please use `processor_kwargs` instead.
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 9764.01it/s]
+Evaluating tasks:   0%|          | 0/1 [00:00<?, ?it/s]Evaluating task MIRACLRetrievalHardNegatives:   0%|          | 0/1 [00:00<?, ?it/s]
+Standardizing text corpus format:   0%|          | 0/21277 [00:00<?, ? examples/s][A
+Standardizing text corpus format:  24%|██▎       | 5020/21277 [00:00<00:00, 49982.21 examples/s][A
+Standardizing text corpus format:  49%|████▊     | 10366/21277 [00:00<00:00, 52023.46 examples/s][A
+Standardizing text corpus format:  74%|███████▍  | 15744/21277 [00:00<00:00, 52793.30 examples/s][A
+Standardizing text corpus format: 100%|██████████| 21277/21277 [00:00<00:00, 48586.12 examples/s][AStandardizing text corpus format: 100%|██████████| 21277/21277 [00:00<00:00, 49378.88 examples/s]
+Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [12:09<00:00, 729.81s/it]Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [12:09<00:00, 729.81s/it]
+[2026-10-16T09:30:31Z] SUBSET DONE qwen3-8b MIRACLRetrievalHardNegatives de 12.2 min

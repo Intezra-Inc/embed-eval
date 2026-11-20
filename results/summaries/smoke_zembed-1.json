@@ -1,0 +1,40 @@
+{
+ "model": "zembed-1",
+ "revision": "cf13c81f3274394053d166740294f7eea4586f7a",
+ "minutes": 0.4,
+ "tasks": {
+  "HumanEvalRetrieval": {
+   "ndcg_at_10": 0.63955,
+   "recall_at_10": 0.78481,
+   "n_subsets": 1,
+   "eval_time_s": 18.212937486001465
+  }
+ },
+ "mteb_code": [
+  "AppsRetrieval",
+  "CodeEditSearchRetrieval",
+  "CodeFeedbackMT",
+  "CodeFeedbackST",
+  "CodeSearchNetCCRetrieval",
+  "CodeSearchNetRetrieval",
+  "CodeTransOceanContest",
+  "CodeTransOceanDL",
+  "CosQA",
+  "COIRCodeSearchNetRetrieval",
+  "StackOverflowQA",
+  "SyntheticText2SQL"
+ ],
+ "rteb_public": [
+  "AppsRetrieval",
+  "DS1000Retrieval",
+  "HumanEvalRetrieval",
+  "MBPPRetrieval",
+  "WikiSQLRetrieval",
+  "FreshStackRetrieval",
+  "SWEbenchCodeRetrieval"
+ ],
+ "rteb_private_skipped": [
+  "Code1Retrieval",
+  "JapaneseCode1Retrieval"
+ ]
+}

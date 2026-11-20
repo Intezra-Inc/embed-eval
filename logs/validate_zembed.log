@@ -1,0 +1,3 @@
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 5486.66it/s]
+Default prompt name is set to 'document'. This prompt will be applied to all inference calls, except if a `prompt` or `prompt_name` parameter is provided.
+{"model": "zembed-1", "zembed_compat_shim": true, "scores": [[0.7526000142097473, 0.5662999749183655, 0.6836000084877014]], "card": [[0.7525, 0.567, 0.6835]], "max_abs_diff": 0.0007, "ok": true}

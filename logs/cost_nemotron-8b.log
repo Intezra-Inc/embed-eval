@@ -1,0 +1,6 @@
+[transformers] Unrecognized keys in `rope_parameters` for 'rope_type'='yarn': {'apply_yarn_scaling'}
+Loading weights:   0%|          | 0/308 [00:00<?, ?it/s]Loading weights: 100%|██████████| 308/308 [00:00<00:00, 5324.94it/s]
+[transformers] Unrecognized keys in `rope_parameters` for 'rope_type'='yarn': {'apply_yarn_scaling'}
+[transformers] Unrecognized keys in `rope_parameters` for 'rope_type'='yarn': {'apply_yarn_scaling'}
+[transformers] Token indices sequence length is longer than the specified maximum sequence length for this model (19668 > 8192). Running this sequence through the model will result in indexing errors
+{"model": "nemotron-8b", "gpu": "NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition", "n_docs": 5000, "batch_size": 32, "max_seq_length": 8192, "dtype": "torch.bfloat16", "n_params": 7952683008, "embed_dim": 4096, "seconds": 944.74, "docs_per_s": 5.3, "tokens_per_s": 5126, "mean_tokens": 968.5, "p95_tokens": 8192, "peak_torch_reserved_gib": 84.94, "peak_torch_allocated_gib": 81.86, "peak_nvidia_smi_gib": 85.62, "storage_per_1M_float32_gb": 16.38, "storage_per_1M_int8_gb": 4.1}

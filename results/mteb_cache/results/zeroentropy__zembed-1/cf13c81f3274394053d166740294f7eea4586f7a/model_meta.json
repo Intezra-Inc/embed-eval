@@ -1,0 +1,61 @@
+{
+    "loader_kwargs": {
+        "trust_remote_code": true,
+        "model_kwargs": {
+            "torch_dtype": "bfloat16"
+        }
+    },
+    "name": "zeroentropy/zembed-1",
+    "revision": "cf13c81f3274394053d166740294f7eea4586f7a",
+    "release_date": "2026-03-02",
+    "languages": [
+        "eng-Latn",
+        "ara-Arab",
+        "jpn-Jpan",
+        "spa-Latn",
+        "fra-Latn",
+        "zho-Hans",
+        "fin-Latn",
+        "ita-Latn",
+        "pol-Latn",
+        "deu-Latn",
+        "nld-Latn",
+        "swe-Latn",
+        "ron-Latn",
+        "ind-Latn",
+        "por-Latn"
+    ],
+    "n_parameters": 4022468096,
+    "n_active_parameters_override": null,
+    "n_embedding_parameters": 388956160,
+    "memory_usage_mb": 7672.0,
+    "max_tokens": 32768.0,
+    "embed_dim": 2560,
+    "license": "cc-by-nc-4.0",
+    "open_weights": true,
+    "public_training_code": null,
+    "public_training_data": null,
+    "framework": [
+        "Sentence Transformers",
+        "PyTorch"
+    ],
+    "reference": "https://huggingface.co/zeroentropy/zembed-1",
+    "similarity_fn_name": "cosine",
+    "use_instructions": null,
+    "training_datasets": null,
+    "adapted_from": "Qwen/Qwen3-4B",
+    "superseded_by": null,
+    "modalities": [
+        "text"
+    ],
+    "model_type": [
+        "dense"
+    ],
+    "citation": "@misc{pipitone2025zeloeloinspiredtrainingmethod,\n      title={zELO: ELO-inspired Training Method for Rerankers and Embedding Models},\n      author={Nicholas Pipitone and Ghita Houir Alami and Advaith Avadhanam and Anton Kaminskyi and Ashley Khoo},\n      year={2025},\n      eprint={2509.12541},\n      archivePrefix={arXiv},\n      primaryClass={cs.AI},\n      url={https://arxiv.org/abs/2509.12541},\n}",
+    "contacts": null,
+    "experiment_kwargs": null,
+    "output_dtypes": "bfloat16",
+    "extra_requirements_groups": null,
+    "loader": "sentence_transformers_loader",
+    "is_cross_encoder": false
+}

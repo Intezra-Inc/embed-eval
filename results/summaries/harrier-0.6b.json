@@ -1,0 +1,142 @@
+{
+ "model": "harrier-0.6b",
+ "revision": "f9b9dc8d367d443f2479d27aa5d8d2850c0774ee",
+ "minutes": 242.4,
+ "tasks": {
+  "AppsRetrieval": {
+   "ndcg_at_10": 0.58248,
+   "recall_at_10": 0.72829,
+   "n_subsets": 1,
+   "eval_time_s": 81.50258021600166
+  },
+  "CodeEditSearchRetrieval": {
+   "ndcg_at_10": 0.6189469230769231,
+   "recall_at_10": 0.7202307692307692,
+   "n_subsets": 13,
+   "eval_time_s": 80.78853417999926
+  },
+  "CodeFeedbackMT": {
+   "ndcg_at_10": 0.93471,
+   "recall_at_10": 0.97477,
+   "n_subsets": 1,
+   "eval_time_s": 831.2285062539959
+  },
+  "CodeFeedbackST": {
+   "ndcg_at_10": 0.87751,
+   "recall_at_10": 0.9778,
+   "n_subsets": 1,
+   "eval_time_s": 1314.8999309639985
+  },
+  "CodeSearchNetCCRetrieval": {
+   "ndcg_at_10": 0.7385883333333334,
+   "recall_at_10": 0.8547750000000001,
+   "n_subsets": 6,
+   "eval_time_s": 1804.6411195519904
+  },
+  "CodeSearchNetRetrieval": {
+   "ndcg_at_10": 0.8858316666666667,
+   "recall_at_10": 0.9533333333333333,
+   "n_subsets": 6,
+   "eval_time_s": 76.00473994200001
+  },
+  "CodeTransOceanContest": {
+   "ndcg_at_10": 0.89176,
+   "recall_at_10": 0.95475,
+   "n_subsets": 1,
+   "eval_time_s": 15.847966156994516
+  },
+  "CodeTransOceanDL": {
+   "ndcg_at_10": 0.37458,
+   "recall_at_10": 0.82778,
+   "n_subsets": 1,
+   "eval_time_s": 13.712193688996194
+  },
+  "CosQA": {
+   "ndcg_at_10": 0.39397,
+   "recall_at_10": 0.684,
+   "n_subsets": 1,
+   "eval_time_s": 31.850442105002003
+  },
+  "COIRCodeSearchNetRetrieval": {
+   "ndcg_at_10": 0.8215333333333333,
+   "recall_at_10": 0.9003550000000001,
+   "n_subsets": 6,
+   "eval_time_s": 1685.0422348529974
+  },
+  "StackOverflowQA": {
+   "ndcg_at_10": 0.93734,
+   "recall_at_10": 0.97643,
+   "n_subsets": 1,
+   "eval_time_s": 171.0743828939958
+  },
+  "SyntheticText2SQL": {
+   "ndcg_at_10": 0.66211,
+   "recall_at_10": 0.97146,
+   "n_subsets": 1,
+   "eval_time_s": 153.98919418400328
+  },
+  "DS1000Retrieval": {
+   "ndcg_at_10": 0.61032,
+   "recall_at_10": 0.92342,
+   "n_subsets": 1,
+   "eval_time_s": 22.987088624002354
+  },
+  "HumanEvalRetrieval": {
+   "ndcg_at_10": 0.87999,
+   "recall_at_10": 0.97468,
+   "n_subsets": 1,
+   "eval_time_s": 18.209367217001272
+  },
+  "MBPPRetrieval": {
+   "ndcg_at_10": 0.89356,
+   "recall_at_10": 0.98665,
+   "n_subsets": 1,
+   "eval_time_s": 5.56696451499738
+  },
+  "WikiSQLRetrieval": {
+   "ndcg_at_10": 0.9563,
+   "recall_at_10": 0.99414,
+   "n_subsets": 1,
+   "eval_time_s": 32.93887287299731
+  },
+  "FreshStackRetrieval": {
+   "ndcg_at_10": 0.38593,
+   "recall_at_10": 0.36723,
+   "n_subsets": 1,
+   "eval_time_s": 117.09421012299572
+  },
+  "SWEbenchCodeRetrieval": {
+   "ndcg_at_10": 0.07236,
+   "recall_at_10": 0.15617,
+   "n_subsets": 1,
+   "eval_time_s": 8105.143556226991
+  }
+ },
+ "mteb_code": [
+  "AppsRetrieval",
+  "CodeEditSearchRetrieval",
+  "CodeFeedbackMT",
+  "CodeFeedbackST",
+  "CodeSearchNetCCRetrieval",
+  "CodeSearchNetRetrieval",
+  "CodeTransOceanContest",
+  "CodeTransOceanDL",
+  "CosQA",
+  "COIRCodeSearchNetRetrieval",
+  "StackOverflowQA",
+  "SyntheticText2SQL"
+ ],
+ "rteb_public": [
+  "AppsRetrieval",
+  "DS1000Retrieval",
+  "HumanEvalRetrieval",
+  "MBPPRetrieval",
+  "WikiSQLRetrieval",
+  "FreshStackRetrieval",
+  "SWEbenchCodeRetrieval"
+ ],
+ "rteb_private_skipped": [
+  "Code1Retrieval",
+  "JapaneseCode1Retrieval"
+ ]
+}

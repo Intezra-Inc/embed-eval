@@ -1,0 +1,5 @@
+[transformers] Unrecognized keys in `rope_parameters` for 'rope_type'='yarn': {'apply_yarn_scaling'}
+Loading weights:   0%|          | 0/308 [00:00<?, ?it/s]Loading weights: 100%|██████████| 308/308 [00:00<00:00, 5696.82it/s]
+[transformers] Unrecognized keys in `rope_parameters` for 'rope_type'='yarn': {'apply_yarn_scaling'}
+[transformers] Unrecognized keys in `rope_parameters` for 'rope_type'='yarn': {'apply_yarn_scaling'}
+{"model": "nemotron-8b", "zembed_compat_shim": false, "scores": [[0.785099983215332, 0.050200000405311584, 0.011599999852478504, -0.02979999966919422], [0.04569999873638153, 0.6518999934196472, -0.06469999998807907, 0.04529999941587448], [-0.001500000013038516, -0.05310000106692314, 0.6607000231742859, 0.11219999939203262], [-0.016899999231100082, -0.003800000064074993, 0.11479999870061874, 0.7983999848365784]], "card": [[0.7852, 0.0496, 0.0115, -0.0299], [0.0457, 0.6562, -0.0645, 0.0452], [-0.0016, -0.053, 0.6602, 0.1123], [-0.017, -0.0036, 0.1147, 0.8008]], "max_abs_diff": 0.0043, "ok": true}

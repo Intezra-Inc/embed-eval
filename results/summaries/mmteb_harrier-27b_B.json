@@ -1,0 +1,95 @@
+{
+ "model": "harrier-27b",
+ "revision": "0c0fc62f6d8af9e8604cb818c412301b103a0093",
+ "batch_size": 16,
+ "minutes": 909.5,
+ "tasks": {
+  "BelebeleRetrieval": {
+   "ndcg_at_10": 0.8655234840425532,
+   "recall_at_10": 0.9224635372340426,
+   "n_subsets": 376,
+   "eval_time_s": 20172.427237364987
+  },
+  "WikipediaRetrievalMultilingual": {
+   "ndcg_at_10": 0.923893125,
+   "recall_at_10": 0.990916875,
+   "n_subsets": 16,
+   "eval_time_s": 8192.03722093103
+  },
+  "MLQARetrieval": {
+   "ndcg_at_10": 0.7964605102040819,
+   "recall_at_10": 0.8904162244897957,
+   "n_subsets": 98,
+   "eval_time_s": 12950.970042313042
+  },
+  "CovidRetrieval": {
+   "ndcg_at_10": 0.83203,
+   "recall_at_10": 0.93941,
+   "n_subsets": 1,
+   "eval_time_s": 8298.626163739013
+  },
+  "TwitterHjerneRetrieval": {
+   "ndcg_at_10": 0.90947,
+   "recall_at_10": 0.93593,
+   "n_subsets": 1,
+   "eval_time_s": 11.170041038945783
+  },
+  "SCIDOCS": {
+   "ndcg_at_10": 0.29099,
+   "recall_at_10": 0.31308,
+   "n_subsets": 1,
+   "eval_time_s": 3009.617791925033
+  },
+  "HagridRetrieval": {
+   "ndcg_at_10": 0.98896,
+   "recall_at_10": 0.99194,
+   "n_subsets": 1,
+   "eval_time_s": 22.821896844019648
+  },
+  "LegalBenchCorporateLobbying": {
+   "ndcg_at_10": 0.95742,
+   "recall_at_10": 0.99412,
+   "n_subsets": 1,
+   "eval_time_s": 51.34063608600991
+  },
+  "LEMBPasskeyRetrieval": {
+   "ndcg_at_10": 0.8453875,
+   "recall_at_10": 0.85,
+   "n_subsets": 8,
+   "eval_time_s": 1676.8899160790024
+  },
+  "TempReasonL1": {
+   "ndcg_at_10": 0.43588,
+   "recall_at_10": 0.8305,
+   "n_subsets": 1,
+   "eval_time_s": 171.16063725098502
+  }
+ },
+ "mteb_code": [
+  "AppsRetrieval",
+  "CodeEditSearchRetrieval",
+  "CodeFeedbackMT",
+  "CodeFeedbackST",
+  "CodeSearchNetCCRetrieval",
+  "CodeSearchNetRetrieval",
+  "CodeTransOceanContest",
+  "CodeTransOceanDL",
+  "CosQA",
+  "COIRCodeSearchNetRetrieval",
+  "StackOverflowQA",
+  "SyntheticText2SQL"
+ ],
+ "rteb_public": [
+  "AppsRetrieval",
+  "DS1000Retrieval",
+  "HumanEvalRetrieval",
+  "MBPPRetrieval",
+  "WikiSQLRetrieval",
+  "FreshStackRetrieval",
+  "SWEbenchCodeRetrieval"
+ ],
+ "rteb_private_skipped": [
+  "Code1Retrieval",
+  "JapaneseCode1Retrieval"
+ ]
+}

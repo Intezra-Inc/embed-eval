@@ -1,0 +1,15 @@
+[2026-10-15T11:34:10Z] START mmteb_harrier-27b_A gpu2
+[2026-10-15T11:34:10Z] START mmteb_nemotron-8b gpu0
+[2026-10-15T11:34:10Z] START mmteb_qwen3-8b gpu1
+[2026-10-15T11:34:10Z] START mmteb_harrier-27b_B gpu3
+[2026-10-16T02:43:44Z] END mmteb_harrier-27b_B exit=0
+[2026-10-16T02:57:16Z] START mmteb_harrier-27b_C gpu3
+Terminated
+[2026-10-16T03:37:47Z] END mmteb_qwen3-8b exit=0
+[2026-10-16T04:01:11Z] END mmteb_nemotron-8b exit=0
+[2026-10-16T04:02:04Z] START mmteb_harrier-27b_D gpu0
+Terminated
+[2026-10-16T05:36:31Z] END mmteb_harrier-27b_A exit=0
+[2026-10-16T08:28:55Z] STOPPED mmteb_harrier-27b_C after Statcan (rest moved to H100)
+[2026-10-16T08:28:55Z] END mmteb_harrier-27b_C exit=0
+[2026-10-16T09:54:25Z] END mmteb_harrier-27b_D exit=0

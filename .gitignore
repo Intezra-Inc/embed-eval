@@ -1,0 +1,7 @@
+venv/
+models/
+cost/docs.jsonl
+__pycache__/
+*.pyc
+*.npy
+logs/.watch_seen

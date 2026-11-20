@@ -1,0 +1,27 @@
+{
+ "model": "nemotron-8b",
+ "registry_name": "nvidia/Nemotron-3-Embed-8B-BF16",
+ "local_path": "~/embed-eval/models/Nemotron-3-Embed-8B-BF16",
+ "revision": "d1f2f25730bbd775b99b29185134bc86653bf2d1",
+ "loader": "SentenceTransformerEncoderWrapper",
+ "max_seq_length": 8192,
+ "dtype": "torch.bfloat16",
+ "st_prompts": {
+  "query": "query: ",
+  "document": "passage: "
+ },
+ "modules": [
+  "Transformer",
+  "Pooling",
+  "Normalize"
+ ],
+ "pooling": "Pooling({'embedding_dimension': 4096, 'pooling_mode': 'mean', 'include_prompt': True})",
+ "embed_dim": 4096,
+ "n_params": 7952683008,
+ "instruction_template": null,
+ "loader_kwargs_overridden": {
+  "processor_kwargs": {
+   "model_max_length": 8192
+  }
+ }
+}

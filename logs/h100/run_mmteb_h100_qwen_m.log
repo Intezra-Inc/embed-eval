@@ -1,0 +1,184 @@
+The `tokenizer_kwargs` argument was renamed and is now deprecated. Please use `processor_kwargs` instead.
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 9476.18it/s]
+Evaluating tasks:   0%|          | 0/1 [00:00<?, ?it/s]Evaluating task MIRACLRetrievalHardNegatives:   0%|          | 0/1 [00:00<?, ?it/s]
+Generating dev split:   0%|          | 0/1606 [00:00<?, ? examples/s][AGenerating dev split: 100%|██████████| 1606/1606 [00:00<00:00, 83772.37 examples/s]
+
+Casting the dataset:   0%|          | 0/1606 [00:00<?, ? examples/s][ACasting the dataset: 100%|██████████| 1606/1606 [00:00<00:00, 397688.76 examples/s]
+
+Generating dev split:   0%|          | 0/101961 [00:00<?, ? examples/s][A
+Generating dev split:  13%|█▎        | 13000/101961 [00:00<00:00, 115106.51 examples/s][A
+Generating dev split:  35%|███▌      | 36000/101961 [00:00<00:00, 171186.72 examples/s][A
+Generating dev split:  55%|█████▍    | 56000/101961 [00:00<00:00, 179111.99 examples/s][A
+Generating dev split:  77%|███████▋  | 79000/101961 [00:00<00:00, 163964.63 examples/s][A
+Generating dev split:  99%|█████████▉| 101000/101961 [00:00<00:00, 177939.08 examples/s][AGenerating dev split: 100%|██████████| 101961/101961 [00:00<00:00, 171626.27 examples/s]
+
+Generating dev split:   0%|          | 0/828 [00:00<?, ? examples/s][AGenerating dev split: 100%|██████████| 828/828 [00:00<00:00, 86793.88 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/50000 [00:00<?, ? examples/s][A
+Standardizing text corpus format:   5%|▌         | 2681/50000 [00:00<00:01, 26631.54 examples/s][A
+Standardizing text corpus format:  11%|█         | 5600/50000 [00:00<00:01, 27875.70 examples/s][A
+Standardizing text corpus format:  17%|█▋        | 8531/50000 [00:00<00:01, 28324.11 examples/s][A
+Standardizing text corpus format:  23%|██▎       | 11576/50000 [00:00<00:01, 28321.19 examples/s][A
+Standardizing text corpus format:  29%|██▉       | 14650/50000 [00:00<00:01, 29003.88 examples/s][A
+Standardizing text corpus format:  38%|███▊      | 19214/50000 [00:00<00:01, 29064.60 examples/s][A
+Standardizing text corpus format:  45%|████▍     | 22345/50000 [00:00<00:00, 29704.19 examples/s][A
+Standardizing text corpus format:  54%|█████▍    | 26959/50000 [00:00<00:00, 30103.53 examples/s][A
+Standardizing text corpus format:  62%|██████▏   | 31012/50000 [00:01<00:00, 27631.27 examples/s][A
+Standardizing text corpus format:  68%|██████▊   | 34051/50000 [00:01<00:00, 28295.58 examples/s][A
+Standardizing text corpus format:  74%|███████▍  | 37000/50000 [00:01<00:00, 28066.75 examples/s][A
+Standardizing text corpus format:  80%|████████  | 40000/50000 [00:01<00:00, 28022.41 examples/s][A
+Standardizing text corpus format:  86%|████████▌ | 43000/50000 [00:01<00:00, 28007.85 examples/s][A
+Standardizing text corpus format:  92%|█████████▏| 46000/50000 [00:01<00:00, 28180.97 examples/s][A
+Standardizing text corpus format:  98%|█████████▊| 49001/50000 [00:01<00:00, 28690.25 examples/s][AStandardizing text corpus format: 100%|██████████| 50000/50000 [00:01<00:00, 25647.47 examples/s]
+Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [1:28:28<00:00, 5308.11s/it]Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [1:28:28<00:00, 5308.11s/it]
+[2026-10-16T04:25:49Z] SUBSET DONE qwen3-8b MIRACLRetrievalHardNegatives te 88.5 min
+Evaluating tasks:   0%|          | 0/1 [00:00<?, ?it/s]Evaluating task MIRACLRetrievalHardNegatives:   0%|          | 0/1 [00:00<?, ?it/s]
+Generating dev split:   0%|          | 0/3494 [00:00<?, ? examples/s][AGenerating dev split: 100%|██████████| 3494/3494 [00:00<00:00, 450144.31 examples/s]
+
+Casting the dataset:   0%|          | 0/3494 [00:00<?, ? examples/s][ACasting the dataset: 100%|██████████| 3494/3494 [00:00<00:00, 922213.72 examples/s]
+
+Generating dev split:   0%|          | 0/63066 [00:00<?, ? examples/s][A
+Generating dev split:  25%|██▌       | 16000/63066 [00:00<00:00, 156814.73 examples/s][A
+Generating dev split:  54%|█████▍    | 34000/63066 [00:00<00:00, 165691.93 examples/s][A
+Generating dev split:  87%|████████▋ | 55000/63066 [00:00<00:00, 180440.72 examples/s][AGenerating dev split: 100%|██████████| 63066/63066 [00:00<00:00, 179271.26 examples/s]
+
+Generating dev split:   0%|          | 0/350 [00:00<?, ? examples/s][AGenerating dev split: 100%|██████████| 350/350 [00:00<00:00, 43455.28 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/50000 [00:00<?, ? examples/s][A
+Standardizing text corpus format:   5%|▌         | 2627/50000 [00:00<00:01, 26093.16 examples/s][A
+Standardizing text corpus format:  11%|█         | 5496/50000 [00:00<00:01, 26764.17 examples/s][A
+Standardizing text corpus format:  17%|█▋        | 8597/50000 [00:00<00:01, 28144.38 examples/s][A
+Standardizing text corpus format:  23%|██▎       | 11572/50000 [00:00<00:01, 28746.35 examples/s][A
+Standardizing text corpus format:  31%|███▏      | 15658/50000 [00:00<00:01, 33046.77 examples/s][A
+Standardizing text corpus format:  40%|███▉      | 19860/50000 [00:00<00:00, 36062.88 examples/s][A
+Standardizing text corpus format:  48%|████▊     | 23832/50000 [00:00<00:00, 37247.72 examples/s][A
+Standardizing text corpus format:  55%|█████▌    | 27739/50000 [00:00<00:00, 37821.75 examples/s][A
+Standardizing text corpus format:  63%|██████▎   | 31680/50000 [00:00<00:00, 38315.08 examples/s][A
+Standardizing text corpus format:  74%|███████▍  | 37243/50000 [00:01<00:00, 37820.21 examples/s][A
+Standardizing text corpus format:  82%|████████▏ | 41134/50000 [00:01<00:00, 38119.17 examples/s][A
+Standardizing text corpus format:  91%|█████████ | 45274/50000 [00:01<00:00, 39045.96 examples/s][A
+Standardizing text corpus format:  99%|█████████▉| 49531/50000 [00:01<00:00, 40056.71 examples/s][AStandardizing text corpus format: 100%|██████████| 50000/50000 [00:01<00:00, 33037.41 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/13066 [00:00<?, ? examples/s][A
+Standardizing text corpus format:  22%|██▏       | 2911/13066 [00:00<00:00, 28938.10 examples/s][A
+Standardizing text corpus format:  45%|████▍     | 5864/13066 [00:00<00:00, 29279.75 examples/s][A
+Standardizing text corpus format:  67%|██████▋   | 8818/13066 [00:00<00:00, 29392.83 examples/s][A
+Standardizing text corpus format:  91%|█████████ | 11900/13066 [00:00<00:00, 29952.03 examples/s][AStandardizing text corpus format: 100%|██████████| 13066/13066 [00:00<00:00, 27315.43 examples/s]
+Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [27:36<00:00, 1656.41s/it]Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [27:36<00:00, 1656.41s/it]
+[2026-10-16T04:53:25Z] SUBSET DONE qwen3-8b MIRACLRetrievalHardNegatives hi 27.6 min
+Evaluating tasks:   0%|          | 0/1 [00:00<?, ?it/s]Evaluating task MIRACLRetrievalHardNegatives:   0%|          | 0/1 [00:00<?, ?it/s]
+Generating dev split:   0%|          | 0/6571 [00:00<?, ? examples/s][AGenerating dev split: 100%|██████████| 6571/6571 [00:00<00:00, 775507.80 examples/s]
+
+Casting the dataset:   0%|          | 0/6571 [00:00<?, ? examples/s][ACasting the dataset: 100%|██████████| 6571/6571 [00:00<00:00, 1452707.76 examples/s]
+
+Generating dev split:   0%|          | 0/133596 [00:00<?, ? examples/s][A
+Generating dev split:  16%|█▌        | 21000/133596 [00:00<00:00, 200807.93 examples/s][A
+Generating dev split:  39%|███▉      | 52000/133596 [00:00<00:00, 262896.16 examples/s][A
+Generating dev split:  70%|██████▉   | 93000/133596 [00:00<00:00, 325486.36 examples/s][A
+Generating dev split:  97%|█████████▋| 130000/133596 [00:00<00:00, 339654.58 examples/s][AGenerating dev split: 100%|██████████| 133596/133596 [00:00<00:00, 318041.60 examples/s]
+
+Generating dev split:   0%|          | 0/632 [00:00<?, ? examples/s][AGenerating dev split: 100%|██████████| 632/632 [00:00<00:00, 82310.20 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/50000 [00:00<?, ? examples/s][A
+Standardizing text corpus format:   6%|▌         | 3050/50000 [00:00<00:01, 30335.63 examples/s][A
+Standardizing text corpus format:  13%|█▎        | 6312/50000 [00:00<00:01, 31671.00 examples/s][A
+Standardizing text corpus format:  19%|█▉        | 9702/50000 [00:00<00:01, 31971.96 examples/s][A
+Standardizing text corpus format:  28%|██▊       | 14013/50000 [00:00<00:01, 30389.04 examples/s][A
+Standardizing text corpus format:  34%|███▍      | 17120/50000 [00:00<00:01, 30596.30 examples/s][A
+Standardizing text corpus format:  41%|████      | 20294/50000 [00:00<00:00, 30948.46 examples/s][A
+Standardizing text corpus format:  50%|█████     | 25000/50000 [00:00<00:00, 30709.58 examples/s][A
+Standardizing text corpus format:  59%|█████▉    | 29713/50000 [00:00<00:00, 30962.83 examples/s][A
+Standardizing text corpus format:  66%|██████▌   | 32821/50000 [00:01<00:00, 30990.56 examples/s][A
+Standardizing text corpus format:  72%|███████▏  | 35990/50000 [00:01<00:00, 31177.30 examples/s][A
+Standardizing text corpus format:  81%|████████▏ | 40686/50000 [00:01<00:00, 31117.71 examples/s][A
+Standardizing text corpus format:  88%|████████▊ | 43897/50000 [00:01<00:00, 31370.40 examples/s][A
+Standardizing text corpus format:  95%|█████████▍| 47333/50000 [00:01<00:00, 32170.98 examples/s][AStandardizing text corpus format: 100%|██████████| 50000/50000 [00:01<00:00, 30235.62 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/50000 [00:00<?, ? examples/s][A
+Standardizing text corpus format:   6%|▌         | 3000/50000 [00:00<00:01, 29298.49 examples/s][A
+Standardizing text corpus format:  12%|█▏        | 6159/50000 [00:00<00:01, 30631.68 examples/s][A
+Standardizing text corpus format:  19%|█▊        | 9261/50000 [00:00<00:01, 30804.26 examples/s][A
+Standardizing text corpus format:  25%|██▍       | 12467/50000 [00:00<00:01, 31295.94 examples/s][A
+Standardizing text corpus format:  33%|███▎      | 16463/50000 [00:00<00:00, 34410.58 examples/s][A
+Standardizing text corpus format:  42%|████▏     | 20920/50000 [00:00<00:00, 37856.86 examples/s][A
+Standardizing text corpus format:  51%|█████     | 25293/50000 [00:00<00:00, 39615.35 examples/s][A
+Standardizing text corpus format:  60%|██████    | 30037/50000 [00:00<00:00, 42094.34 examples/s][A
+Standardizing text corpus format:  69%|██████▉   | 34612/50000 [00:00<00:00, 43230.50 examples/s][A
+Standardizing text corpus format:  78%|███████▊  | 39000/50000 [00:01<00:00, 43327.53 examples/s][A
+Standardizing text corpus format:  87%|████████▋ | 43348/50000 [00:01<00:00, 43373.88 examples/s][A
+Standardizing text corpus format:  96%|█████████▌| 47854/50000 [00:01<00:00, 43881.61 examples/s][AStandardizing text corpus format: 100%|██████████| 50000/50000 [00:01<00:00, 38142.74 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/33596 [00:00<?, ? examples/s][A
+Standardizing text corpus format:   7%|▋         | 2257/33596 [00:00<00:01, 22437.99 examples/s][A
+Standardizing text corpus format:  16%|█▌        | 5441/33596 [00:00<00:01, 27952.69 examples/s][A
+Standardizing text corpus format:  26%|██▌       | 8668/33596 [00:00<00:00, 29675.26 examples/s][A
+Standardizing text corpus format:  35%|███▍      | 11694/33596 [00:00<00:00, 29067.38 examples/s][A
+Standardizing text corpus format:  44%|████▍     | 14864/33596 [00:00<00:00, 29993.63 examples/s][A
+Standardizing text corpus format:  54%|█████▎    | 18000/33596 [00:00<00:00, 30100.37 examples/s][A
+Standardizing text corpus format:  63%|██████▎   | 21186/33596 [00:00<00:00, 30664.31 examples/s][A
+Standardizing text corpus format:  74%|███████▍  | 24872/33596 [00:00<00:00, 32611.98 examples/s][A
+Standardizing text corpus format:  87%|████████▋ | 29317/33596 [00:00<00:00, 36263.43 examples/s][A
+Standardizing text corpus format: 100%|██████████| 33596/33596 [00:01<00:00, 33980.51 examples/s][AStandardizing text corpus format: 100%|██████████| 33596/33596 [00:01<00:00, 31760.33 examples/s]
+Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [32:53<00:00, 1973.10s/it]Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [32:53<00:00, 1973.10s/it]
+[2026-10-16T05:26:18Z] SUBSET DONE qwen3-8b MIRACLRetrievalHardNegatives fa 32.9 min
+Evaluating tasks:   0%|          | 0/1 [00:00<?, ?it/s]Evaluating task MIRACLRetrievalHardNegatives:   0%|          | 0/1 [00:00<?, ?it/s]
+Standardizing text corpus format:   0%|          | 0/50000 [00:00<?, ? examples/s][A
+Standardizing text corpus format:   6%|▌         | 3000/50000 [00:00<00:01, 28643.29 examples/s][A
+Standardizing text corpus format:  12%|█▏        | 6076/50000 [00:00<00:01, 29859.35 examples/s][A
+Standardizing text corpus format:  18%|█▊        | 9244/50000 [00:00<00:01, 30679.14 examples/s][A
+Standardizing text corpus format:  25%|██▍       | 12443/50000 [00:00<00:01, 31190.24 examples/s][A
+Standardizing text corpus format:  31%|███▏      | 15725/50000 [00:00<00:01, 31626.37 examples/s][A
+Standardizing text corpus format:  41%|████      | 20320/50000 [00:00<00:00, 31192.75 examples/s][A
+Standardizing text corpus format:  47%|████▋     | 23696/50000 [00:00<00:00, 31502.78 examples/s][A
+Standardizing text corpus format:  54%|█████▍    | 26926/50000 [00:00<00:00, 31733.27 examples/s][A
+Standardizing text corpus format:  63%|██████▎   | 31725/50000 [00:01<00:00, 31609.65 examples/s][A
+Standardizing text corpus format:  72%|███████▏  | 36226/50000 [00:01<00:00, 31039.74 examples/s][A
+Standardizing text corpus format:  80%|████████  | 40237/50000 [00:01<00:00, 33038.72 examples/s][A
+Standardizing text corpus format:  89%|████████▉ | 44651/50000 [00:01<00:00, 35953.94 examples/s][A
+Standardizing text corpus format:  98%|█████████▊| 49000/50000 [00:01<00:00, 37700.54 examples/s][AStandardizing text corpus format: 100%|██████████| 50000/50000 [00:01<00:00, 30696.45 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/16649 [00:00<?, ? examples/s][A
+Standardizing text corpus format:  16%|█▌        | 2618/16649 [00:00<00:00, 25584.32 examples/s][A
+Standardizing text corpus format:  36%|███▌      | 6000/16649 [00:00<00:00, 21804.33 examples/s][A
+Standardizing text corpus format:  54%|█████▍    | 9000/16649 [00:00<00:00, 24471.37 examples/s][A
+Standardizing text corpus format:  73%|███████▎  | 12135/16649 [00:00<00:00, 26840.75 examples/s][A
+Standardizing text corpus format:  92%|█████████▏| 15342/16649 [00:00<00:00, 28564.63 examples/s][AStandardizing text corpus format: 100%|██████████| 16649/16649 [00:00<00:00, 25607.17 examples/s]
+Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [32:40<00:00, 1960.24s/it]Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [32:40<00:00, 1960.24s/it]
+[2026-10-16T05:58:58Z] SUBSET DONE qwen3-8b MIRACLRetrievalHardNegatives th 32.7 min
+Evaluating tasks:   0%|          | 0/1 [00:00<?, ?it/s]Evaluating task MIRACLRetrievalHardNegatives:   0%|          | 0/1 [00:00<?, ?it/s]Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [42:53<00:00, 2573.87s/it]Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [42:53<00:00, 2573.87s/it]
+[2026-10-16T06:41:52Z] SUBSET DONE qwen3-8b MIRACLRetrievalHardNegatives ru 42.9 min
+Evaluating tasks:   0%|          | 0/1 [00:00<?, ?it/s]Evaluating task MIRACLRetrievalHardNegatives:   0%|          | 0/1 [00:00<?, ?it/s]Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [36:21<00:00, 2181.44s/it]Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [36:21<00:00, 2181.44s/it]
+[2026-10-16T07:18:14Z] SUBSET DONE qwen3-8b MIRACLRetrievalHardNegatives fi 36.4 min
+Evaluating tasks:   0%|          | 0/1 [00:00<?, ?it/s]Evaluating task MIRACLRetrievalHardNegatives:   0%|          | 0/1 [00:00<?, ?it/s]Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [28:08<00:00, 1688.07s/it]Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [28:08<00:00, 1688.07s/it]
+[2026-10-16T07:46:22Z] SUBSET DONE qwen3-8b MIRACLRetrievalHardNegatives id 28.1 min
+Evaluating tasks:   0%|          | 0/1 [00:00<?, ?it/s]Evaluating task MIRACLRetrievalHardNegatives:   0%|          | 0/1 [00:00<?, ?it/s]Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [31:00<00:00, 1860.48s/it]Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [31:00<00:00, 1860.48s/it]
+[2026-10-16T08:17:22Z] SUBSET DONE qwen3-8b MIRACLRetrievalHardNegatives ja 31.0 min
+Evaluating tasks:   0%|          | 0/1 [00:00<?, ?it/s]Evaluating task MIRACLRetrievalHardNegatives:   0%|          | 0/1 [00:00<?, ?it/s]Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [24:30<00:00, 1470.67s/it]Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [24:30<00:00, 1470.67s/it]
+[2026-10-16T08:41:53Z] SUBSET DONE qwen3-8b MIRACLRetrievalHardNegatives es 24.5 min
+Evaluating tasks:   0%|          | 0/1 [00:00<?, ?it/s]Evaluating task MIRACLRetrievalHardNegatives:   0%|          | 0/1 [00:00<?, ?it/s]Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [26:00<00:00, 1560.66s/it]Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [26:00<00:00, 1560.66s/it]
+[2026-10-16T09:07:54Z] SUBSET DONE qwen3-8b MIRACLRetrievalHardNegatives en 26.0 min
+Evaluating tasks:   0%|          | 0/1 [00:00<?, ?it/s]Evaluating task MIRACLRetrievalHardNegatives:   0%|          | 0/1 [00:00<?, ?it/s]
+Generating dev split:   0%|          | 0/3057 [00:00<?, ? examples/s][AGenerating dev split: 100%|██████████| 3057/3057 [00:00<00:00, 507459.82 examples/s]
+
+Casting the dataset:   0%|          | 0/3057 [00:00<?, ? examples/s][ACasting the dataset: 100%|██████████| 3057/3057 [00:00<00:00, 1088453.93 examples/s]
+
+Generating dev split:   0%|          | 0/43293 [00:00<?, ? examples/s][A
+Generating dev split:  46%|████▌     | 20000/43293 [00:00<00:00, 187458.70 examples/s][AGenerating dev split: 100%|██████████| 43293/43293 [00:00<00:00, 214274.34 examples/s]
+
+Generating dev split:   0%|          | 0/213 [00:00<?, ? examples/s][AGenerating dev split: 100%|██████████| 213/213 [00:00<00:00, 55680.07 examples/s]
+
+Standardizing text corpus format:   0%|          | 0/43293 [00:00<?, ? examples/s][A
+Standardizing text corpus format:   7%|▋         | 3125/43293 [00:00<00:01, 31086.09 examples/s][A
+Standardizing text corpus format:  15%|█▍        | 6404/43293 [00:00<00:01, 32080.89 examples/s][A
+Standardizing text corpus format:  23%|██▎       | 9744/43293 [00:00<00:01, 32607.24 examples/s][A
+Standardizing text corpus format:  34%|███▍      | 14722/43293 [00:00<00:00, 32707.18 examples/s][A
+Standardizing text corpus format:  42%|████▏     | 18000/43293 [00:00<00:00, 32347.44 examples/s][A
+Standardizing text corpus format:  49%|████▉     | 21361/43293 [00:00<00:00, 32736.99 examples/s][A
+Standardizing text corpus format:  57%|█████▋    | 24789/43293 [00:00<00:00, 33141.04 examples/s][A
+Standardizing text corpus format:  69%|██████▉   | 29775/43293 [00:00<00:00, 33093.09 examples/s][A
+Standardizing text corpus format:  80%|████████  | 34769/43293 [00:01<00:00, 33024.99 examples/s][A
+Standardizing text corpus format:  92%|█████████▏| 39806/43293 [00:01<00:00, 33153.91 examples/s][A
+Standardizing text corpus format: 100%|██████████| 43293/43293 [00:01<00:00, 28802.78 examples/s][AStandardizing text corpus format: 100%|██████████| 43293/43293 [00:01<00:00, 31333.19 examples/s]
+Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [08:35<00:00, 515.91s/it]Evaluating task MIRACLRetrievalHardNegatives: 100%|██████████| 1/1 [08:35<00:00, 515.91s/it]
+[2026-10-16T09:16:29Z] SUBSET DONE qwen3-8b MIRACLRetrievalHardNegatives ko 8.6 min
+Evaluating tasks:   0%|          | 0/1 [00:00<?, ?it/s]Evaluating task MIRACLRetrievalHardNegatives:   0%|          | 0/1 [00:00<?, ?it/s]

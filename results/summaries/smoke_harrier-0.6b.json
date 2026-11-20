@@ -1,0 +1,40 @@
+{
+ "model": "harrier-0.6b",
+ "revision": "f9b9dc8d367d443f2479d27aa5d8d2850c0774ee",
+ "minutes": 0.3,
+ "tasks": {
+  "HumanEvalRetrieval": {
+   "ndcg_at_10": 0.87999,
+   "recall_at_10": 0.97468,
+   "n_subsets": 1,
+   "eval_time_s": 18.209367217001272
+  }
+ },
+ "mteb_code": [
+  "AppsRetrieval",
+  "CodeEditSearchRetrieval",
+  "CodeFeedbackMT",
+  "CodeFeedbackST",
+  "CodeSearchNetCCRetrieval",
+  "CodeSearchNetRetrieval",
+  "CodeTransOceanContest",
+  "CodeTransOceanDL",
+  "CosQA",
+  "COIRCodeSearchNetRetrieval",
+  "StackOverflowQA",
+  "SyntheticText2SQL"
+ ],
+ "rteb_public": [
+  "AppsRetrieval",
+  "DS1000Retrieval",
+  "HumanEvalRetrieval",
+  "MBPPRetrieval",
+  "WikiSQLRetrieval",
+  "FreshStackRetrieval",
+  "SWEbenchCodeRetrieval"
+ ],
+ "rteb_private_skipped": [
+  "Code1Retrieval",
+  "JapaneseCode1Retrieval"
+ ]
+}

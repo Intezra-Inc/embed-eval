@@ -1,0 +1,20 @@
+MIRACL-HN corpus: passages per language and mean tokens/passage per tokenizer (500-passage sample, seed 0; scripts/diag_tokens.py)
+ar {"n": 192103, "nemotron": 145.426, "qwen": 185.734, "harrier": 168.374}
+bn {"n": 297265, "nemotron": 168.97, "qwen": 422.008, "harrier": 107.094}
+de {"n": 71277, "nemotron": 132.282, "qwen": 157.84, "harrier": 135.142}
+en {"n": 178768, "nemotron": 131.0, "qwen": 132.204, "harrier": 129.914}
+es {"n": 146750, "nemotron": 123.948, "qwen": 143.084, "harrier": 123.036}
+fa {"n": 133596, "nemotron": 135.946, "qwen": 242.586, "harrier": 135.738}
+fi {"n": 194415, "nemotron": 150.832, "qwen": 179.434, "harrier": 153.784}
+fr {"n": 75357, "nemotron": 109.954, "qwen": 130.004, "harrier": 115.026}
+hi {"n": 63066, "nemotron": 189.718, "qwen": 449.456, "harrier": 137.682}
+id {"n": 168173, "nemotron": 127.002, "qwen": 148.49, "harrier": 115.492}
+ja {"n": 185319, "nemotron": 170.08, "qwen": 165.678, "harrier": 142.244}
+ko {"n": 43293, "nemotron": 161.166, "qwen": 199.504, "harrier": 170.026}
+ru {"n": 219114, "nemotron": 149.516, "qwen": 178.122, "harrier": 142.038}
+sw {"n": 131924, "nemotron": 88.882, "qwen": 94.626, "harrier": 81.53}
+te {"n": 101961, "nemotron": 267.126, "qwen": 879.528, "harrier": 242.734}
+th {"n": 116649, "nemotron": 260.75, "qwen": 288.656, "harrier": 193.456}
+yo {"n": 49043, "nemotron": 88.734, "qwen": 87.722, "harrier": 79.458}
+zh {"n": 81309, "nemotron": 137.888, "qwen": 107.114, "harrier": 110.664}
+TOTAL Mtokens {"nemotron": 374.5, "qwen": 574.6, "harrier": 335.7}

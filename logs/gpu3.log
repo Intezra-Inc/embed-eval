@@ -1,0 +1,5 @@
+[2026-10-12T13:43:59Z] START harrier-0.6b gpu3
+[2026-10-12T17:46:34Z] END harrier-0.6b exit=0
+[2026-10-12T17:46:34Z] START harrier-27b_B gpu3
+scripts/run_all.sh: line 10: 205395 Killed                  CUDA_VISIBLE_DEVICES=$g timeout "$to" $P scripts/run_eval.py --label "$label" "$@" > logs/run_$label.log 2>&1
+[2026-10-13T06:15:24Z] END harrier-27b_B exit=137
